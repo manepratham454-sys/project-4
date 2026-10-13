@@ -1,0 +1,1246 @@
+OrderID,Customer,Email,City,Category,Quantity,UnitPrice,OrderDate
+1809,customer 28,user60@mail.com,Mumbai,clothing,2.0,2742.0,2025-07-17
+1391,customer 203,user171@mail.com,Pune,Clothing,4.0,,19-Feb-2025
+1926,customer 19,user155@mail.com,Bengaluru,Grocery,7.0,4354.0,2026-08-01
+1230,customer 173,user124@mail.com,Pune,Furniture,4.0,$1418,13-Mar-2025
+1550,customer 93,user272@mail.com,Chennai,Grocery,5.0,2442.0,06-Feb-2025
+1749,customer 69,user140@mail.com,PUNE,clothing,5.0,1879.0,05/04/2026
+1511,customer 137,user86@mail.com,Delhi,Grocery,7.0,159.0,2026-01-21
+1061,customer 149,user165@mail.com,,Electronics,1.0,2177.0,13/12/2025
+1419,customer 16,,Bengaluru,Electronics,,4131.0,2025-04-18
+1473,customer 195,user209@mail.com,Delhi,Electronics,3.0,4810.0,06/12/2025
+1821,customer 211,user276@mail.com,Mumbai,Clothing,,110.0,11-Mar-2026
+1597,customer 233,user185@mail.com,delhi,Furniture,6.0,2993.0,2025-11-14
+1756,customer 133,user174@mail.com,Delhi,Clothing,1.0,4914.0,2025-12-26
+1544,customer 6,user152@mail.com,Bengaluru,Clothing,5.0,2748.0,2025-10-08
+1792,customer 25,user193@mail.com,Pune,Grocery,3.0,4866.0,2025-02-15
+1283,customer 174,user294@mail.com,,Furniture,7.0,511.0,29-Mar-2026
+2179,customer 200,not_an_email,Chennai,Furniture,2.0,1058.0,17/10/2025
+1535,customer 81,user165@mail.com,pune,Grocery,8.0,1979.0,30-Apr-2025
+1596,customer 27,,Mumbai,Grocery,9.0,3655.0,2026-01-05
+2028,customer 178,not_an_email,Pune,Clothing,4.0,1539.0,2025-11-16
+1047,customer 14,user81@mail.com,Chennai,Furniture,5.0,,2025-03-24
+1388,customer 33,user261@mail.com,Mumbai,Clothing,2.0,$3186,14-Dec-2025
+1664,customer 278,user260@mail.com,Mumbai,Furniture,1.0,1464.0,10/07/2025
+1614,customer 102,user37@mail.com,Chennai,Grocery,7.0,3748.0,29-Jan-2026
+1272,customer 61,user292@mail.com,Pune,Clothing,1.0,1413.0,27/10/2025
+1020,customer 245,user127@mail.com,Mumbai,Furniture,2.0,4118.0,22-Dec-2025
+1932,customer 113,user265@mail.com,Mumbai,Clothing,9.0,4387.0,07-Feb-2025
+2064,customer 192,user195@mail.com,Delhi,FURNITURE,7.0,2926.0,11/12/2025
+1721,customer 80,user129@mail.com,Chennai,Grocery,,3426.0,13-Mar-2026
+2031,customer 134,user257@mail.com,Delhi,Grocery,1.0,900000,07/04/2025
+1844,customer 39,user233@mail.com,Chennai,Clothing,,1366.0,01/04/2026
+1636,customer 238,user251@mail.com,,Clothing,6.0,448.0,2025-09-13
+1870,customer 189,user4@mail.com,Mumbai,Furniture,4.0,,26/07/2026
+1530,customer 192,user280@mail.com,Chennai,Electronics ,9.0,2949.0,10/02/2025
+1879,customer 23,user5@mail.com,PUNE,Clothing,4.0,3858.0,11-Jun-2026
+1921,customer 140,,Mumbai,Furniture,3.0,954.0,2025-03-10
+1181,customer 12,user96@mail.com,Delhi,Grocery,4.0,3781.0,11-Jun-2026
+1697,customer 74,user187@mail.com,Pune,Clothing,1.0,4589.0,2025-07-07
+1549,customer 113,user131@mail.com,Delhi,Electronics,5.0,4539.0,2026-05-28
+1656,customer 33,user180@mail.com,Delhi,Grocery,7.0,$865,04-Dec-2025
+1835,customer 101,user127@mail.com,Delhi,ELECTRONICS,7.0,1382.0,25/05/2025
+1468,customer 42,user235@mail.com,Bengaluru,Clothing,4.0,2843.0,28/07/2026
+1513,customer 25,user181@mail.com,Chennai,Clothing,3.0,,17-Jan-2025
+1287,customer 263,user35@mail.com,Delhi,Clothing,3.0,2248.0,2026-07-10
+1323,customer 274,user176@mail.com, Mumbai ,Clothing,3.0,1111.0,2026-01-04
+2161,customer 286,user150@mail.com,Bengalur,Grocery ,6.0,$1337,08-Feb-2026
+1711,customer 53,user59@mail.com,Mumbai,Furniture,3.0,3996.0,31/07/2025
+2081,customer 277,user154@mail.com,Bengaluru,Electronics,4.0,2068.0,2026-02-03
+1537,customer 92,user23@mail.com,bengaluru,Grocery,6.0,3886.0,23/11/2025
+2001,customer 126,user261@mail.com,Pune,Furniture,4.0,2119.0,2025-01-09
+1980,customer 256,user196@mail.com,Pune,Clothing,9.0,4188.0,26/08/2025
+1273,,user157@mail.com,Bengaluru,Furniture,6.0,3056.0,21-Feb-2026
+2092,customer 66,user124@mail.com,Mumbai,Clothing,2.0,914.0,13/01/2026
+1680,customer 33,user35@mail.com,Chennai,Electronics,1.0,3645.0,26/11/2025
+2006,customer 48,user79@mail.com,DELHI,CLOTHING,7.0,2577.0,2025-02-02
+1343,customer 188,user275@mail.com,Bengaluru,Furniture,8.0,1205.0,2026-01-01
+1240,customer 291,user44@mail.com,Pune,Clothing,1.0,284.0,13-May-2026
+1182,customer 290,user121@mail.com,Delhi,Furniture,3.0,1771.0,28/06/2025
+1490,customer 177,user257@mail.com,Chennai,Clothing,3.0,344.0,2025-06-01
+2175,customer 296,user143@mail.com,Pune,Furniture,6.0,2286.0,2025-12-01
+1465,customer 260,user97@mail.com,Bengaluru,Electronics,5.0,,2025-05-13
+1521,customer 24,user156@mail.com,PUNE,Electronics,3.0,973.0,2025-08-05
+1567,customer 156,user96@mail.com,Pune,Furniture,8.0,4599.0,29-May-2026
+1845,customer 20,user120@mail.com,Chennai,ELECTRONICS,4.0,3764.0,2026-04-07
+1600,customer 94,user295@mail.com,Delhi,Clothing,7.0,1973.0,2025-12-05
+2197,customer 208,user26@mail.com, Chennai ,GROCERY,4.0,2111.0,16/02/2026
+1401,customer 243,user299@mail.com,Delhi,Electronics,7.0,4323.0,2025-10-08
+1268,customer 27,user236@mail.com,Mumbai,Electronics,4.0,3275.0,08-Dec-2025
+1212,customer 18,user138@mail.com,Bengaluru,Furniture ,3.0,1585.0,06/03/2026
+1263,customer 172,user141@mail.com,Mumbai,electronics,6.0,4582.0,2025-02-04
+1615,customer 126,user267@mail.com,Chennai,Furniture,,2297.0,2025-12-08
+1702,customer 154,user36@mail.com,Mumbai,grocery,9.0,3371.0,10-Apr-2026
+1455,customer 189,user70@mail.com,Delhi,Electronics,1.0,$1134,2025-09-13
+1232,customer 223,user231@mail.com,Mumbai,Electronics,1.0,1615.0,28/06/2026
+1477,customer 169,user89@mail.com,Delhi,clothing,3.0,3265.0,2026-01-25
+1917,customer 223,user169@mail.com,Delh,Electronics,1.0,3472.0,25/06/2026
+1922,,user248@mail.com,Delhi,CLOTHING,8.0,4264.0,06-Jun-2026
+2038,customer 109,user11@mail.com,Pune,Electronics,4.0,782.0,02-Jul-2025
+1946,customer 86,user55@mail.com,CHENNAI,Clothing,2.0,1098.0,2026-08-10
+2130,customer 229,user85@mail.com, Pune ,Electronics ,9.0,$3392,15-Jul-2025
+1965,customer 129,user298@mail.com,Bengaluru,Grocery,2.0,831.0,14/05/2025
+1768,customer 154,user81@mail.com,Pune,Grocery,3.0,1309.0,12/03/2025
+2136,customer 44,user31@mail.com,Mumbai,Furniture,2.0,927.0,2025-04-25
+2090,customer 17,user28@mail.com,Chennai,Electronics,6.0,2797.0,2026-03-10
+1571,customer 58,user66@mail.com,Mumbai,Furniture,9.0,1509.0,2026-01-31
+2054,,user136@mail.com, Mumbai ,Clothing,7.0,4467.0,26-Oct-2025
+2037,customer 74,user295@mail.com,,Furniture,2.0,1713.0,2025-06-27
+1927,customer 102,user216@mail.com,delhi,Electronics ,4.0,4489.0,24/06/2025
+1814,customer 132,user168@mail.com,Bengaluru,FURNITURE,3.0,4305.0,17/12/2025
+1568,customer 282,user126@mail.com,,Electronics,2.0,1192.0,24-Apr-2025
+1923,customer 226,user77@mail.com,Mumba,Electronics,8.0,1811.0,07-Apr-2025
+1330,customer 272,user242@mail.com,Bengaluru,Grocery,7.0,3115.0,
+1141,customer 201,user152@mail.com,,Furniture,3.0,770.0,2025-10-02
+1649,customer 276,,Chennai,Electronics,5.0,,29-Nov-2025
+1239,customer 244,user168@mail.com,Delhi,Furniture,7.0,3188.0,2025-04-28
+1068,customer 290,user225@mail.com,mumbai,Electronics,1.0,4674.0,06/04/2025
+1356,customer 268,user238@mail.com,Bengaluru,Electronics ,1.0,4022.0,10-Jun-2025
+1471,customer 8,user32@mail.com,BENGALURU,Grocery,,3412.0,2026-05-24
+1137,customer 290,user82@mail.com,Delhi,Grocery,9.0,3488.0,
+1183,customer 262,user13@mail.com,Delhi,Clothing,5.0,,2025-03-11
+1732,customer 298,user219@mail.com,Chennai,Furniture,3.0,784.0,17-Oct-2025
+1589,,user26@mail.com,,Electronics,3.0,1314.0,2025-02-13
+1239,customer 244,user168@mail.com,Delhi,Furniture,7.0,3188.0,2025-04-28
+1385,customer 12,user275@mail.com,Bengaluru,Grocery,3.0,3992.0,2025-04-28
+2098,customer 21,user57@mail.com,Delhi,Furniture,9.0,2618.0,26/02/2025
+1335,customer 198,user121@mail.com,Delhi,Electronics,6.0,,2026-03-05
+1127,customer 46,user19@mail.com,Bengaluru,Electronics,9.0,1216.0,29/04/2025
+2116,customer 5,user50@mail.com,Mumbai,Grocery,2.0,,27/07/2025
+1819,,user240@mail.com,Mumbai,Electronics,4.0,$4852,20-Oct-2025
+2064,customer 192,user195@mail.com,Delhi,FURNITURE,7.0,2926.0,11/12/2025
+1102,customer 193,user69@mail.com,Chennai,Clothing,9.0,461.0,24/06/2026
+1505,customer 65,user76@mail.com,Pune,ELECTRONICS,1.0,4236.0,20/11/2025
+1936,customer 288,user248@mail.com,Chennai,furniture,1.0,887.0,15/03/2025
+1487,customer 197,user76@mail.com,mumbai,Grocery,-5.0,4362.0,23/08/2025
+1599,,user31@mail.com,Bengaluru,Electronics,,1602.0,08-Oct-2025
+1677,customer 142,user17@mail.com,Delhi,Grocery,8.0,954.0,2026-01-04
+1015,customer 246,user134@mail.com,Pune,ELECTRONICS,9.0,2075.0,05/10/2025
+1568,customer 282,user126@mail.com,,Electronics,2.0,1192.0,24-Apr-2025
+1146,customer 28,user256@mail.com,Bengaluru,electronics,3.0,2351.0,
+1279,customer 269,user43@mail.com,Bengaluru,Grocery,3.0,2094.0,2025-07-18
+1949,customer 167,user86@mail.com,CHENNAI,Grocery,6.0,1322.0,22/05/2025
+1379,customer 75,user100@mail.com,,Furniture,9.0,780.0,2026-08-13
+1577,customer 224,user190@mail.com,Chennai,Grocery,2.0,$2062,22-Dec-2025
+1988,customer 280,user276@mail.com,Chennai,Electronics,7.0,3510.0,02-Aug-2026
+1007,,user24@mail.com,Chennai,CLOTHING,-5.0,4506.0,21/05/2026
+1293,customer 21,user234@mail.com,Mumbai,Electronics,8.0,1905.0,23/02/2026
+1270,customer 66,user47@mail.com,Bengaluru,Grocery,4.0,2540.0,2025-03-20
+1067,customer 58,user83@mail.com,Chennai,Grocery,4.0,915.0,31-Mar-2026
+2148,customer 176,user237@mail.com,Pune,Clothing,2.0,1491.0,11-Aug-2025
+1071,customer 60,user182@mail.com,Pune,Electronics,2.0,532.0,17-Apr-2025
+1099,customer 261,user288@mail.com,,Furniture,8.0,3397.0,2026-04-15
+2113,customer 288,user184@mail.com,DELHI,Electronics,9.0,2161.0,2025-04-19
+1704,customer 128,user124@mail.com,Delhi,CLOTHING,3.0,1252.0,08-Feb-2026
+1083,customer 264,user227@mail.com,Pune,Grocery,2.0,$3924,2026-01-17
+1575,customer 161,user38@mail.com,Bengaluru,Clothing,6.0,1072.0,2025-06-15
+1476,customer 50,user92@mail.com,Delhi,Furniture,5.0,3528.0,20/08/2025
+1663,customer 134,user84@mail.com,,electronics,8.0,3877.0,03/08/2025
+1058,customer 132,user105@mail.com,Bengaluru,Furniture,4.0,1139.0,21-Jan-2026
+1370,customer 89,user64@mail.com,chennai,FURNITURE,1.0,4863.0,12/05/2026
+1672,customer 253,user120@mail.com,Delhi,Furniture,3.0,1010.0,15/06/2026
+1705,customer 10,user245@mail.com,Delhi,Clothing,7.0,274.0,
+1248,customer 27,user115@mail.com,Bengalur,Grocery,3.0,4327.0,31-Oct-2025
+2066,customer 291,user123@mail.com,Chennai,Grocery,6.0,4431.0,18/08/2025
+2030,customer 147,user34@mail.com,Mumbai,Grocery,-5.0,3821.0,2025-05-25
+1457,customer 247,user84@mail.com,Pune,Clothing,1.0,2818.0,16/10/2025
+1460,customer 109,user157@mail.com,Pune,Electronics,8.0,4113.0,24/05/2025
+1765,customer 180,,Bengaluru,clothing,6.0,4950.0,11/08/2025
+1070,customer 264,user246@mail.com,Mumbai,Furniture,7.0,4130.0,02/02/2025
+1701,customer 68,user173@mail.com,Chennai,Grocery,9.0,3803.0,03/05/2025
+1832,customer 71,user258@mail.com,Pune,Clothing,1.0,1631.0,2025-02-05
+1529,customer 40,user99@mail.com,Chennai,Furniture,3.0,975.0,2025-04-20
+1066,customer 30,user59@mail.com,Pune,grocery,2.0,,21/08/2026
+1453,customer 198,user69@mail.com,Mumbai,Electronics ,8.0,,2025-07-06
+2100,customer 115,user128@mail.com,Bengaluru,Furniture,1.0,2930.0,16-Jul-2025
+1694,,user206@mail.com,Bengaluru,Grocery,,1183.0,18/10/2025
+2171,customer 249,user240@mail.com,MUMBAI,Furniture,,864.0,18/02/2026
+1101,customer 109,user214@mail.com,,CLOTHING,2.0,4951.0,30-Jun-2025
+1684,customer 134,user276@mail.com,Bengaluru,Furniture,,$1071,14-Jan-2025
+2004,customer 140,user89@mail.com,Chennai,FURNITURE,1.0,3586.0,2025-09-03
+1997,customer 148,user288@mail.com,Pune,Furniture,-5.0,4344.0,21-Jun-2025
+1188,customer 143,user54@mail.com,Bengaluru,Furniture,8.0,1439.0,09-Sep-2025
+2036,customer 174,user72@mail.com,Bengaluru,Electronics,1.0,4603.0,09-Jun-2026
+2189,customer 101,user79@mail.com,Mumbai,Clothing,3.0,,12/02/2025
+2018,customer 160,user176@mail.com,Mumbai,Furniture,1.0,3538.0,2025-11-04
+1951,customer 199,user275@mail.com,Pune,grocery,6.0,3905.0,2025-06-28
+2042,customer 81,user232@mail.com,Chennai,Furniture,3.0,,28-May-2025
+1119,customer 177,user24@mail.com,Chennai,Furniture,4.0,3074.0,2026-06-25
+1305,customer 203,user152@mail.com,Pune,FURNITURE,8.0,1293.0,
+1963,customer 88,user9@mail.com,Bengaluru,Electronics,4.0,1580.0,24/02/2026
+1991,customer 22,user171@mail.com,Pune,Clothing,9.0,3131.0,2025-02-10
+1328,customer 224,user78@mail.com,delhi,Clothing,2.0,4615.0,2025-01-02
+2178,customer 229,user239@mail.com,Mumbai,Electronics,2.0,1905.0,2025-03-09
+1888,customer 154,user166@mail.com,Chennai,Electronics,7.0,316.0,17/08/2026
+1265,customer 102,user276@mail.com,Mumbai,CLOTHING,9.0,2592.0,01-Mar-2025
+1842,customer 160,user110@mail.com,Delhi,Grocery,1.0,2798.0,28-Nov-2025
+1498,,user56@mail.com,DELHI,Grocery,6.0,3910.0,2025-12-14
+1021,customer 91,user269@mail.com,Bengaluru,Clothing,4.0,3017.0,10/01/2026
+1226,customer 124,user253@mail.com,Mumbai,Electronics ,5.0,245.0,28/07/2026
+2067,customer 231,user188@mail.com,Delhi,Furniture ,5.0,1431.0,31-Aug-2025
+1375,customer 7,user31@mail.com,pune,Electronics,7.0,4687.0,2026-06-29
+1199,customer 37,user97@mail.com,Chennai,Clothing,8.0,4671.0,2025-06-23
+1235,customer 41,user162@mail.com,Mumbai,Furniture,7.0,1873.0,18/03/2025
+1849,customer 5,user271@mail.com,bengaluru,Furniture,8.0,113.0,2025-11-30
+1365,customer 263,user40@mail.com,Mumbai,Furniture,9.0,371.0,15/04/2025
+1882,customer 97,user97@mail.com,Delhi,Electronics,2.0,3124.0,11-Feb-2026
+1045,customer 184,user281@mail.com,Mumbai,Grocery,,4399.0,2025-06-19
+2124,customer 40,user10@mail.com,Delhi,Grocery,6.0,2859.0,02-Oct-2025
+2078,customer 114,user86@mail.com,Bengaluru,Grocery,4.0,1429.0,11/07/2026
+1481,,user11@mail.com,Mumbai,Electronics,5.0,3397.0,2025-05-26
+1129,customer 132,user140@mail.com, Chennai ,Furniture,2.0,2809.0,27/07/2025
+1158,customer 84,user285@mail.com,Chennai,Clothing,1.0,3823.0,13-Feb-2025
+1584,customer 17,user129@mail.com,Delhi,Furniture,7.0,4843.0,26/05/2026
+1286,customer 283,user244@mail.com,Mumbai,Electronics,2.0,1684.0,13-Jul-2026
+1811,customer 289,user156@mail.com,Mumbai,Furniture,6.0,3564.0,12-Jul-2026
+1984,customer 95,user53@mail.com,chennai,Grocery,,,04/08/2026
+1321,customer 64,user107@mail.com, Mumbai ,Clothing,6.0,4554.0,2025-01-09
+2089,customer 225,user27@mail.com, Delhi ,Grocery,5.0,3950.0,10-Jun-2025
+1484,customer 264,user274@mail.com,Mumbai,Clothing,,2762.0,2026-07-15
+2026,customer 54,,BENGALURU,Furniture,6.0,2708.0,2025-02-10
+1126,customer 287,user212@mail.com,Mumbai,Electronics,,2921.0,05-Feb-2026
+1899,,user169@mail.com,Bengaluru,Grocery,8.0,$1434,2026-01-10
+1557,,user74@mail.com,Chennai,Clothing,8.0,1576.0,20/01/2025
+1717,customer 55,user162@mail.com,MUMBAI,Furniture,8.0,1729.0,13/08/2026
+1776,customer 237,user249@mail.com,Mumbai,Electronics,2.0,4646.0,12-Sep-2025
+1708,customer 252,user130@mail.com, Bengaluru ,Grocery,5.0,4273.0,
+2105,customer 41,user176@mail.com,Chennai,ELECTRONICS,7.0,2162.0,06-Jul-2026
+2183,customer 171,user153@mail.com,Delhi,Grocery,7.0,3272.0,01-Jul-2025
+1318,customer 51,user183@mail.com, Pune ,Grocery,7.0,,2025-12-07
+2065,customer 127,user177@mail.com,Chennai,FURNITURE,7.0,3007.0,2025-09-22
+1741,customer 41,,DELHI,Clothing,6.0,,01-May-2026
+1104,customer 33,user271@mail.com,Chenna,Furniture,1.0,2626.0,2026-03-19
+1157,customer 171,user259@mail.com,Delhi,Clothing,8.0,4201.0,2026-03-02
+1284,,user228@mail.com,Pune,Clothing,9.0,4597.0,2026-01-09
+1688,customer 218,user73@mail.com,,clothing,2.0,772.0,21-Apr-2026
+1314,customer 186,user257@mail.com,Mumbai,Clothing,3.0,2445.0,10-May-2025
+1781,customer 212,user187@mail.com,,grocery,1.0,$2374,21-Jun-2026
+1696,customer 198,user267@mail.com,Mumbai,grocery,4.0,4540.0,25-Mar-2026
+1995,customer 94,user112@mail.com,Bengaluru,Clothing,,187.0,2025-08-13
+1037,customer 187,, Mumbai ,Furniture ,8.0,900000,20-Aug-2025
+1355,customer 244,not_an_email,Chennai,Clothing,6.0,1293.0,19/07/2026
+2063,customer 21,user98@mail.com,Chenna,furniture,4.0,3439.0,2025-11-24
+1551,customer 213,,DELHI,Electronics,2.0,257.0,17/12/2025
+1885,customer 59,user26@mail.com,,Grocery,6.0,4554.0,26-Mar-2025
+1116,customer 173,user180@mail.com,Bengaluru,Clothing,3.0,4910.0,09-Jan-2025
+1091,customer 222,user217@mail.com,Bengaluru,Clothing,2.0,,09/06/2025
+1877,customer 165,user287@mail.com,Pune,furniture,4.0,2592.0,
+1285,customer 128,not_an_email, Delhi ,Furniture,5.0,3248.0,20-Feb-2025
+1399,customer 161,user203@mail.com,pune,Electronics,1.0,2498.0,04-Apr-2026
+2145,customer 277,user20@mail.com,CHENNAI,Clothing,,2249.0,17/07/2025
+1619,customer 253,user39@mail.com,Pune,Grocery,5.0,2188.0,2026-06-17
+1853,customer 141,user215@mail.com, Bengaluru ,Electronics,5.0,,2026-01-02
+1641,customer 297,user121@mail.com,,CLOTHING,7.0,2477.0,2026-02-03
+1090,customer 13,user147@mail.com, Pune ,grocery,1.0,4190.0,29-Mar-2025
+1315,customer 120,user65@mail.com,Mumbai,Furniture,2.0,3749.0,02-Jul-2026
+1421,customer 102,user283@mail.com,Bengaluru,Electronics,9.0,4044.0,2025-10-11
+2076,customer 238,user262@mail.com,Mumbai,Furniture,5.0,633.0,26-Aug-2025
+1977,customer 284,user56@mail.com,Delhi,Clothing,2.0,623.0,27-Dec-2025
+2152,customer 8,user47@mail.com,Bengaluru,Furniture,7.0,1823.0,2026-04-10
+2177,customer 183,user148@mail.com,Mumbai,Furniture,4.0,2014.0,2025-04-16
+1169,customer 265,user22@mail.com,Chennai,Clothing,9.0,2179.0,29-Apr-2026
+1969,customer 106,user23@mail.com,Mumbai,Grocery,8.0,3876.0,2025-05-08
+1659,customer 53,user269@mail.com,pune,Grocery,6.0,1735.0,15-Sep-2025
+2181,customer 203,not_an_email,Mumbai,Clothing,6.0,537.0,05/06/2026
+1668,customer 136,user36@mail.com,Pune,grocery,,1478.0,13-Mar-2025
+1990,customer 40,user208@mail.com,Delhi,Clothing,2.0,2736.0,13-Aug-2025
+1940,customer 269,user298@mail.com,Mumba,Furniture,7.0,,25-Apr-2025
+1508,customer 63,user57@mail.com,Delhi,Furniture ,8.0,1834.0,2026-07-15
+1439,customer 230,user130@mail.com,Delhi,Grocery,2.0,3866.0,20-Apr-2025
+2132,customer 153,user294@mail.com,Mumbai,Grocery,4.0,1490.0,2025-03-27
+1280,customer 230,user264@mail.com,mumbai,CLOTHING,7.0,2281.0,2025-06-14
+1532,customer 221,user115@mail.com,Bengaluru,Furniture,7.0,3018.0,2025-11-09
+1719,customer 201,user18@mail.com,Pune,Grocery,6.0,3292.0,16-Jun-2025
+1333,customer 178,user77@mail.com,pune,CLOTHING,8.0,4421.0,20-Sep-2025
+1512,customer 178,user135@mail.com,pune,Electronics,1.0,4810.0,27-Jul-2026
+1301,customer 76,user137@mail.com,Chennai,Clothing ,5.0,2177.0,14/10/2025
+1543,customer 56,user22@mail.com,Bengalur,Electronics,3.0,4078.0,2025-10-26
+1327,customer 34,user11@mail.com,Chennai,Clothing ,2.0,4444.0,2025-06-01
+1525,customer 40,user211@mail.com,pune,Electronics,1.0,1348.0,2025-06-04
+1223,,user41@mail.com,Bengaluru,Clothing,6.0,1603.0,21-Jul-2025
+1813,customer 173,user87@mail.com,Pune,electronics,9.0,900000,19-Jul-2025
+1213,customer 177,,pune,GROCERY,9.0,3558.0,07-Mar-2025
+2021,customer 212,user45@mail.com,Delhi,Electronics,7.0,3322.0,2025-03-24
+1060,customer 80,user171@mail.com,Mumbai,Electronics,1.0,3036.0,10/05/2026
+1586,customer 135,user157@mail.com,Pune,Furniture,9.0,1523.0,2025-04-18
+1309,customer 189,user42@mail.com,,Electronics,9.0,4387.0,2025-12-12
+1829,customer 125,user41@mail.com,Delhi,Electronics,1.0,1087.0,2025-08-22
+1480,customer 268,user197@mail.com,Delhi,Grocery,3.0,4465.0,02/08/2026
+1000,customer 283,user217@mail.com,Bengaluru,Furniture,2.0,3140.0,14-Jun-2026
+1363,customer 240,user143@mail.com,Mumbai,Grocery,6.0,3178.0,2026-03-02
+1397,customer 281,,Pune,Electronics,1.0,4036.0,2025-08-30
+1405,customer 183,user244@mail.com,Chennai,Furniture,5.0,3459.0,2026-04-01
+2046,customer 88,user79@mail.com,Pune,Furniture,-5.0,,2025-10-04
+1580,customer 168,user79@mail.com, Mumbai ,Electronics,9.0,3669.0,09/03/2025
+1928,customer 48,user231@mail.com,DELHI,Grocery,9.0,3737.0,05-Mar-2025
+1033,customer 298,user74@mail.com,Chennai,Clothing,3.0,1951.0,01/05/2026
+1838,customer 125,user208@mail.com,,Electronics,6.0,3471.0,
+1757,customer 149,user86@mail.com,Chennai,Furniture,8.0,4017.0,02-Mar-2025
+1733,customer 119,user115@mail.com,Delhi,Grocery,5.0,580.0,27-Apr-2025
+1658,,user263@mail.com,delhi,Grocery,9.0,1626.0,2026-05-30
+1349,customer 19,user76@mail.com,Chennai,Furniture,9.0,4150.0,30-Oct-2025
+1081,customer 81,user88@mail.com,Pun,Furniture,8.0,2044.0,10/03/2025
+2191,customer 154,user167@mail.com,Chennai,Clothing,1.0,1572.0,13-Jan-2025
+2151,customer 15,user91@mail.com,Chennai,Electronics,5.0,4785.0,01/05/2025
+1839,customer 63,user62@mail.com,BENGALURU,Furniture,9.0,,06-Aug-2025
+1400,customer 193,user186@mail.com,PUNE,Grocery,2.0,3634.0,2026-04-17
+2092,customer 66,user124@mail.com,Mumbai,Clothing,2.0,914.0,13/01/2026
+1695,customer 274,user250@mail.com,CHENNAI,Clothing,1.0,3978.0,2025-10-28
+1488,customer 178,user199@mail.com,Mumbai,Clothing,5.0,3352.0,2026-01-10
+1770,customer 274,user208@mail.com,Pune,clothing,6.0,299.0,16-May-2025
+1574,customer 225,user33@mail.com,Delhi,clothing,,1626.0,17/07/2026
+2159,customer 64,user38@mail.com,Chennai,FURNITURE,7.0,715.0,2025-05-15
+1945,customer 258,user141@mail.com,Pune,GROCERY,5.0,2829.0,2025-12-10
+1197,customer 10,user194@mail.com,Bengaluru,Furniture,6.0,1006.0,12-Mar-2025
+1581,customer 38,user47@mail.com,Mumba,Grocery,1.0,127.0,2025-06-05
+1540,customer 146,user252@mail.com,Delhi,Electronics,6.0,333.0,2025-11-30
+1128,customer 168,user239@mail.com,,Furniture,7.0,559.0,2026-06-13
+1135,customer 29,user276@mail.com,Pune,Furniture,1.0,$3592,2025-07-25
+1281,customer 223,user106@mail.com,Mumbai,Clothing,7.0,$179,29-Sep-2025
+1200,customer 125,user184@mail.com,Bengaluru,Grocery ,7.0,1128.0,11/05/2025
+1496,customer 204,user69@mail.com,Chennai,Electronics,7.0,3689.0,16-Jun-2025
+1552,customer 136,user176@mail.com, Pune ,Furniture,5.0,4904.0,07/08/2026
+1418,customer 5,user91@mail.com,Chennai,Electronics,5.0,$2801,30/03/2025
+1148,customer 160,user247@mail.com,Bengaluru,Clothing,7.0,4925.0,16/11/2025
+1960,customer 103,user274@mail.com,Mumbai,Furniture,7.0,$3610,2026-04-10
+2002,customer 84,user225@mail.com,Bengaluru,Electronics,8.0,,29/01/2025
+1065,customer 4,user26@mail.com,Pune,Clothing,2.0,1453.0,2026-06-14
+1387,customer 177,user183@mail.com,Bengalur,Grocery,6.0,3276.0,2025-12-12
+2160,customer 32,user147@mail.com,Pune,Grocery,7.0,4427.0,06-May-2025
+1492,customer 253,user225@mail.com,Mumbai,electronics,7.0,1057.0,25-May-2025
+1271,customer 133,user146@mail.com,Bengaluru,Furniture,8.0,3678.0,2026-05-23
+1143,customer 90,user23@mail.com,CHENNAI,Grocery,1.0,4561.0,2025-06-20
+1847,customer 218,user139@mail.com,,Furniture,6.0,4054.0,09-Jun-2025
+1322,customer 90,user122@mail.com,,Grocery,2.0,412.0,02-Jun-2026
+1367,customer 157,user291@mail.com,Bengaluru,CLOTHING,8.0,1041.0,26-Jul-2026
+1973,customer 112,user15@mail.com, Bengaluru ,Furniture,8.0,2722.0,24/03/2025
+2035,customer 205,user178@mail.com,Delhi,Grocery ,8.0,911.0,16/03/2025
+1086,customer 281,user61@mail.com,,Electronics,6.0,4676.0,13-Mar-2025
+1164,customer 74,user70@mail.com,Delhi,Clothing,4.0,1465.0,22/03/2026
+1716,customer 282,user120@mail.com,Bengaluru,Grocery,5.0,,16/07/2026
+2068,customer 115,user62@mail.com,Bengaluru,furniture,8.0,342.0,11-Sep-2025
+1606,customer 177,user223@mail.com,Pune,Clothing,4.0,1197.0,17/08/2026
+1545,customer 131,user10@mail.com,Mumbai,clothing,1.0,4170.0,20-Nov-2025
+2167,customer 95,user192@mail.com,Mumbai,Clothing,9.0,4973.0,10-Sep-2025
+2061,customer 77,user80@mail.com,Bengaluru,Electronics,1.0,228.0,2025-01-31
+1193,customer 8,user286@mail.com,Bengaluru,Grocery,4.0,1618.0,2026-08-19
+2043,customer 191,,Mumbai,clothing,,555.0,
+1555,customer 218,not_an_email, Bengaluru ,Grocery,9.0,2470.0,2025-10-03
+1108,customer 179,, Chennai ,Electronics,6.0,2035.0,30-May-2025
+1332,customer 52,user231@mail.com,Bengalur,Furniture,2.0,858.0,24/03/2026
+1171,customer 192,,Chenna,Grocery,6.0,900000,2025-09-10
+1018,customer 36,user5@mail.com,Chennai,Grocery,7.0,$4909,2025-06-06
+1958,customer 34,user186@mail.com,Chennai,Furniture ,7.0,,2025-07-29
+1155,customer 271,user178@mail.com,Mumbai,Clothing ,4.0,627.0,
+1628,customer 231,user194@mail.com,Delh,Clothing,3.0,2045.0,2025-02-06
+2131,customer 237,user249@mail.com,Chennai,CLOTHING,1.0,1632.0,14/12/2025
+2115,customer 8,user266@mail.com,Pune,FURNITURE,2.0,2397.0,2026-05-28
+1502,customer 199,user93@mail.com,,Clothing,6.0,489.0,07-Sep-2025
+1436,customer 92,user64@mail.com,Chennai,electronics,4.0,1876.0,2026-01-10
+1880,customer 237,user203@mail.com,Chennai,Electronics ,2.0,1117.0,29/04/2026
+1504,customer 89,user217@mail.com,Delhi,Grocery,2.0,2146.0,23/11/2025
+1824,customer 246,user277@mail.com,Bengaluru,Electronics,4.0,4710.0,2025-04-06
+1016,customer 40,user167@mail.com,Mumbai,Electronics,5.0,4292.0,2025-05-10
+1411,customer 12,user267@mail.com,Chennai,Grocery,8.0,1215.0,09-May-2025
+1075,customer 2,user189@mail.com,Delhi,electronics,6.0,2522.0,14-May-2026
+1455,customer 189,user70@mail.com,Delhi,Electronics,1.0,$1134,2025-09-13
+2117,customer 55,user212@mail.com,Chennai,Electronics,9.0,4167.0,16/10/2025
+1402,customer 131,not_an_email,Bengaluru,Furniture,8.0,$819,16/03/2026
+1861,,user152@mail.com,Mumbai,Clothing,1.0,$1316,10-Jun-2026
+2005,customer 248,user88@mail.com,pune,Grocery ,7.0,4850.0,17-Mar-2026
+1319,customer 16,user139@mail.com,Pune,Grocery,3.0,1893.0,2026-08-22
+1241,customer 5,user33@mail.com,Bengaluru,Clothing,3.0,2738.0,07-Jul-2025
+1556,customer 21,user178@mail.com,Pune,Grocery,2.0,1709.0,
+1601,,user78@mail.com,Bengaluru,Grocery,7.0,4057.0,16/12/2025
+1807,customer 154,user156@mail.com,Mumbai,Electronics,1.0,,18-Dec-2025
+1886,customer 86,user162@mail.com,Pune,Clothing,4.0,2577.0,27-Feb-2025
+1361,customer 274,,BENGALURU,Grocery ,,2564.0,15/06/2026
+2015,customer 164,user36@mail.com,Mumbai,Electronics,8.0,1066.0,01/02/2025
+1321,customer 64,user107@mail.com, Mumbai ,Clothing,6.0,4554.0,2025-01-09
+1612,customer 44,user62@mail.com,Chennai,Electronics,3.0,4847.0,26/05/2026
+1593,customer 281,user203@mail.com,Pune,Electronics,1.0,1548.0,2025-02-22
+1374,customer 130,user294@mail.com,Chennai,Furniture,2.0,739.0,19-Dec-2025
+1787,customer 220,user288@mail.com,Mumbai,Furniture,8.0,1937.0,2025-12-08
+1522,customer 60,user264@mail.com,Chennai,Grocery,5.0,3592.0,19-Feb-2026
+1431,customer 94,user227@mail.com,Delhi,Furniture,9.0,309.0,16/07/2025
+1089,,user114@mail.com, Delhi ,Furniture,7.0,3620.0,04/01/2026
+2139,customer 125,user153@mail.com,Bengaluru,Furniture,1.0,4691.0,09-Mar-2026
+1441,customer 264,user42@mail.com,mumbai,Furniture,9.0,$4135,2025-04-02
+2056,customer 104,user29@mail.com,Bengaluru,Grocery,7.0,2670.0,23/06/2025
+1082,customer 289,user215@mail.com,Chennai,Grocery,7.0,3554.0,2025-06-20
+1398,customer 257,user254@mail.com,Delhi,Furniture,7.0,3215.0,2025-10-28
+1891,customer 136,user96@mail.com,Bengaluru,Clothing ,7.0,924.0,2025-12-17
+1581,customer 38,user47@mail.com,Mumba,Grocery,1.0,127.0,2025-06-05
+1470,customer 104,user77@mail.com,Bengaluru,Grocery,6.0,1069.0,2026-01-18
+1194,customer 216,user171@mail.com,Mumbai,Grocery,1.0,1402.0,2025-06-25
+1251,customer 68,user52@mail.com,Chennai,Electronics,6.0,4932.0,14/02/2026
+1856,customer 17,user186@mail.com,Delhi,Clothing,4.0,1323.0,31/08/2025
+1464,customer 95,user150@mail.com,Bengaluru,Clothing,3.0,4180.0,2026-03-27
+2051,customer 189,user236@mail.com,Delhi,Grocery,6.0,3776.0,28-Oct-2025
+1579,customer 269,user31@mail.com,Bengaluru,Furniture,5.0,3617.0,17-Jul-2025
+1414,customer 140,user146@mail.com,,clothing,7.0,1119.0,23/04/2025
+1311,customer 291,user86@mail.com, Chennai ,Clothing,8.0,1098.0,11-Sep-2025
+1956,customer 114,user269@mail.com,Bengaluru,Grocery,2.0,2219.0,2025-03-05
+2096,customer 22,user163@mail.com,Bengaluru,Electronics,5.0,662.0,08-Jan-2026
+1682,customer 117,user199@mail.com,Bengaluru,Furniture,9.0,$1629,08-Apr-2026
+1621,customer 163,user208@mail.com,Mumbai,Electronics,3.0,4152.0,02/02/2025
+2159,customer 64,user38@mail.com,Chennai,FURNITURE,7.0,715.0,2025-05-15
+2008,customer 243,user241@mail.com,Delhi,Electronics,4.0,3552.0,08-Jun-2026
+1944,customer 257,user195@mail.com,Delhi,Electronics,5.0,4927.0,04/01/2025
+2111,customer 85,user123@mail.com,Pune,Clothing,7.0,$1835,2025-12-10
+1707,customer 151,user5@mail.com,Mumbai,FURNITURE,3.0,$2917,20-Feb-2025
+1452,customer 136,user152@mail.com,Mumbai,Furniture,7.0,386.0,02/02/2025
+1486,customer 297,user280@mail.com,Mumba,Furniture,7.0,1501.0,02-Jul-2026
+2119,customer 50,user141@mail.com,Pune,Electronics ,5.0,1171.0,11-Aug-2025
+1826,customer 66,user81@mail.com,Pune,Clothing,2.0,3408.0,19/07/2026
+2079,customer 146,user165@mail.com,Mumbai,GROCERY,6.0,1977.0,2026-08-23
+1546,customer 55,user67@mail.com,Delhi,Clothing,6.0,4043.0,2025-11-09
+1417,customer 256,user136@mail.com,Chennai,Clothing,1.0,$4506,05/08/2025
+1351,customer 124,user42@mail.com, Chennai ,Clothing,6.0,1200.0,2026-02-23
+1662,customer 285,user239@mail.com,Mumbai,FURNITURE,6.0,2237.0,17/01/2026
+1080,customer 160,user276@mail.com,PUNE,Grocery,9.0,790.0,05/05/2026
+1345,customer 190,user93@mail.com,Pune,Furniture,7.0,1163.0,2025-09-04
+1407,customer 58,user123@mail.com,Chennai,Grocery,9.0,$1417,2025-10-24
+1250,customer 69,user216@mail.com,Mumbai,Clothing,3.0,2849.0,2026-02-04
+1308,customer 41,user150@mail.com,Bengaluru,Grocery,8.0,2360.0,2026-03-25
+1295,customer 129,user4@mail.com,mumbai,Furniture,,4427.0,15/06/2025
+1784,customer 210,user174@mail.com,Pune,Furniture,4.0,3615.0,31-Jan-2025
+1961,customer 88,user284@mail.com,bengaluru,CLOTHING,1.0,1536.0,29-Jan-2025
+1592,customer 191,user156@mail.com,Delhi,Electronics,4.0,$1425,10-Feb-2026
+1967,customer 299,user181@mail.com,Pune,Electronics,7.0,3055.0,2026-06-14
+1326,customer 178,user115@mail.com,Mumbai,Clothing,4.0,826.0,01/05/2025
+1857,customer 216,user268@mail.com,Mumbai,Grocery,1.0,3866.0,10/08/2026
+1120,customer 132,user250@mail.com,Delhi,Electronics,6.0,1547.0,2025-05-02
+1806,customer 88,,Bengaluru,Electronics,5.0,2872.0,2025-04-25
+1739,customer 54,user197@mail.com,Mumbai,Furniture,8.0,3758.0,22/06/2026
+1219,customer 156,user186@mail.com,Bengaluru,Grocery,9.0,2360.0,28/07/2025
+2059,customer 92,user59@mail.com,Delhi,GROCERY,3.0,2095.0,2026-04-19
+1595,,user164@mail.com,Mumbai,Furniture,2.0,4123.0,28/04/2026
+1192,customer 17,user70@mail.com,,Electronics,5.0,,2025-10-08
+1871,customer 12,user297@mail.com,Pune,Furniture ,3.0,3473.0,24/03/2025
+1290,customer 214,user79@mail.com,PUNE,Electronics,,1340.0,03/10/2025
+1180,customer 214,user292@mail.com,Pune,Grocery,8.0,2907.0,05/08/2025
+1462,customer 25,user206@mail.com,Bengaluru,Clothing,6.0,4383.0,14-Dec-2025
+1185,customer 140,user118@mail.com,,Grocery,3.0,2475.0,29-Oct-2025
+1437,customer 39,user116@mail.com,Pun,Grocery ,9.0,908.0,16-Oct-2025
+2186,customer 268,user51@mail.com,Mumbai,Clothing,6.0,3196.0,2025-04-29
+1878,customer 228,user171@mail.com,Bengaluru,Electronics,3.0,2706.0,11-Jan-2025
+1204,customer 218,user229@mail.com,Mumbai,Clothing,1.0,3576.0,28-Apr-2026
+2039,customer 193,user138@mail.com,Mumbai,Clothing,,1136.0,2026-03-28
+1887,customer 263,user142@mail.com,delhi,Grocery,6.0,,09-Oct-2025
+1074,customer 147,user175@mail.com,Pune,CLOTHING,8.0,4452.0,11-Aug-2025
+1981,customer 113,user92@mail.com,Pune,Furniture,3.0,1432.0,2025-01-30
+1062,customer 114,user46@mail.com,Chennai,Clothing,1.0,4328.0,2025-12-03
+2003,customer 248,,Bengaluru,electronics,9.0,4551.0,2026-01-23
+1432,customer 199,user26@mail.com,Bengaluru,Clothing,7.0,2073.0,16-Sep-2025
+1002,customer 205,user285@mail.com,Pune,Clothing,,,
+1267,customer 82,user21@mail.com,Delhi,Grocery,1.0,934.0,02/07/2026
+1084,customer 56,user281@mail.com,Delh,FURNITURE,7.0,248.0,14/09/2025
+1451,customer 29,user240@mail.com,Chennai,Clothing,5.0,4443.0,
+1011,,user56@mail.com,Chennai,Electronics,2.0,,2025-04-12
+1519,customer 90,user13@mail.com,Bengaluru,Clothing,9.0,1697.0,2026-01-31
+1929,customer 248,user127@mail.com,Pune,Furniture,8.0,3850.0,01-Oct-2025
+1873,customer 136,user9@mail.com, Bengaluru ,electronics,2.0,3497.0,09/04/2026
+1142,customer 5,user158@mail.com,Delhi,Furniture,5.0,$2954,2025-04-25
+1641,customer 297,user121@mail.com,,CLOTHING,7.0,2477.0,2026-02-03
+1669,customer 274,user29@mail.com,Pune,grocery,4.0,4733.0,2026-02-24
+1156,customer 288,user135@mail.com,Pun,Furniture,7.0,3067.0,2025-11-03
+1209,customer 261,user165@mail.com,Bengaluru,Furniture,4.0,1978.0,07/11/2025
+1715,customer 145,user292@mail.com,Chennai,Grocery,1.0,3733.0,23/12/2025
+1779,customer 228,user78@mail.com,Mumbai,Furniture,1.0,288.0,2025-11-03
+1794,customer 235,user242@mail.com,Mumbai,Furniture,7.0,2421.0,19/11/2025
+1526,customer 151,user86@mail.com,Bengaluru,Electronics,5.0,4281.0,14-Jul-2026
+2029,customer 245,user223@mail.com,Delhi,Furniture,1.0,4716.0,26/06/2025
+1179,customer 72,user290@mail.com,Mumbai,Clothing,4.0,3810.0,08/08/2026
+1610,customer 62,user182@mail.com,Bengaluru,Electronics,1.0,1421.0,17-Feb-2025
+1979,customer 266,user111@mail.com,CHENNAI,Electronics,9.0,2698.0,10-Jun-2025
+1134,customer 248,user267@mail.com, Pune ,electronics,7.0,3108.0,07/08/2025
+1001,customer 187,user255@mail.com,pune,Grocery,2.0,1090.0,23-Aug-2025
+1312,customer 90,user291@mail.com,Mumba,Electronics ,3.0,4859.0,2025-08-25
+1440,customer 225,user221@mail.com,Bengaluru,electronics,7.0,,2026-03-15
+1109,customer 97,user141@mail.com,Chennai,grocery,8.0,,21/03/2025
+1160,customer 169,user4@mail.com,Mumbai,Grocery,7.0,4000.0,30-Mar-2026
+1665,customer 225,user281@mail.com,Bengaluru,Clothing,7.0,$761,08/04/2025
+1573,customer 80,user8@mail.com,Chennai,Furniture,4.0,,27/02/2026
+1376,customer 78,user212@mail.com,Pun,Electronics,9.0,2473.0,12/06/2025
+1205,customer 129,user177@mail.com,Mumbai,furniture,6.0,581.0,2025-09-17
+1795,customer 50,user54@mail.com,Delhi,Clothing,4.0,$104,01/05/2025
+1288,,user132@mail.com,Bengalur,Clothing ,7.0,2373.0,22/02/2026
+1056,customer 247,user274@mail.com,Mumbai,Clothing,7.0,3286.0,30/10/2025
+1172,customer 175,user87@mail.com,Pune,Grocery,1.0,,2026-03-04
+1384,customer 73,user117@mail.com,Mumbai,Grocery,1.0,1520.0,2025-04-09
+1618,customer 103,user42@mail.com,Chennai,Electronics,4.0,4157.0,2026-05-25
+1564,customer 217,user277@mail.com,delhi,Clothing,5.0,4193.0,2025-05-11
+1231,customer 226,user81@mail.com,BENGALURU,furniture,3.0,1448.0,12-Feb-2025
+2095,customer 131,user179@mail.com,Chennai,Grocery,5.0,2506.0,2026-02-18
+1683,customer 94,user131@mail.com,Pune,Clothing,3.0,1110.0,15/06/2026
+1664,customer 278,user260@mail.com,Mumbai,Furniture,1.0,1464.0,10/07/2025
+2009,customer 230,user87@mail.com,Mumbai,Clothing,4.0,2113.0,2025-10-28
+1864,customer 285,user183@mail.com,Mumbai,Clothing,4.0,$1831,2026-03-10
+1848,customer 239,not_an_email,Bengaluru,Furniture,1.0,2867.0,2026-07-14
+1310,customer 276,user59@mail.com,Mumbai,Clothing,6.0,817.0,26-Jul-2026
+1077,customer 249,user136@mail.com,Bengaluru,Clothing,5.0,,01-Aug-2026
+1237,customer 126,,Bengaluru,Electronics,2.0,601.0,27-Jun-2025
+2012,,user292@mail.com,Pune,Clothing,9.0,506.0,20/02/2025
+1236,customer 254,user123@mail.com,Chennai,Furniture,9.0,2386.0,20/01/2025
+1426,customer 91,user197@mail.com,Delhi,Electronics ,5.0,$464,25-Sep-2025
+1913,customer 167,user153@mail.com,delhi,Electronics,2.0,4572.0,18-Dec-2025
+2103,customer 192,user175@mail.com,Chennai,Furniture,1.0,1683.0,05-Jun-2025
+2193,customer 6,user96@mail.com,PUNE,Electronics,5.0,,21-May-2026
+1964,customer 75,user29@mail.com,Bengaluru,Electronics,1.0,3883.0,2026-05-22
+1796,customer 118,user51@mail.com,Delhi,Clothing,3.0,,2026-06-11
+1175,customer 113,user141@mail.com,Bengaluru,Clothing,7.0,3659.0,2026-05-21
+2016,customer 91,user108@mail.com,Mumbai,Furniture,2.0,3198.0,09-May-2025
+1982,customer 101,user265@mail.com,Chennai,Grocery,,2271.0,2025-07-25
+1644,customer 102,user107@mail.com,,FURNITURE,8.0,2148.0,26/09/2025
+2143,customer 49,user236@mail.com, Chennai ,Grocery,9.0,2985.0,02-May-2026
+1456,customer 273,user151@mail.com,Delhi,Grocery,7.0,1813.0,2025-04-24
+1590,customer 122,user195@mail.com,Pun,Grocery,4.0,126.0,2025-11-12
+2077,customer 230,user245@mail.com,pune,Electronics,6.0,$224,29-Jan-2026
+1542,customer 256,user165@mail.com,Pune,FURNITURE,4.0,3890.0,2026-08-15
+2199,customer 126,user62@mail.com,Pune,Furniture,9.0,$4343,2025-09-05
+1317,customer 61,user39@mail.com,Delhi,Furniture,,$1717,06-Apr-2025
+1049,customer 11,user211@mail.com,Delhi,furniture,6.0,4770.0,2026-04-27
+1651,customer 37,user60@mail.com,,Electronics,7.0,914.0,2025-08-01
+1893,customer 225,user33@mail.com,Delhi,Furniture,9.0,323.0,2025-10-03
+1823,customer 193,user43@mail.com,Mumba,Furniture,3.0,3252.0,2025-04-02
+1152,customer 145,user105@mail.com,DELHI,Clothing,4.0,2977.0,22-Jun-2025
+1046,customer 35,user226@mail.com,Bengaluru,Furniture,,4772.0,2025-04-12
+1654,customer 203,user209@mail.com,Pune,Electronics,9.0,2835.0,04-Aug-2026
+2123,customer 5,user146@mail.com,Mumbai,Electronics,4.0,4747.0,18-Jun-2025
+1608,customer 97,user275@mail.com,mumbai,Clothing,2.0,1409.0,2026-06-24
+1802,customer 253,user82@mail.com,Bengalur,Grocery,4.0,4964.0,29/09/2025
+1347,customer 55,user221@mail.com,Mumbai,Grocery,7.0,3787.0,09/07/2025
+2044,customer 267,user88@mail.com,Pune,Grocery,7.0,1900.0,2026-04-20
+2121,customer 142,user244@mail.com,Mumbai,Furniture,2.0,4161.0,07-Feb-2025
+2184,customer 60,user112@mail.com,DELHI,Clothing,,2145.0,2025-01-29
+2109,customer 52,user102@mail.com,Mumbai,Clothing,7.0,4215.0,12-Jul-2025
+2072,customer 48,user145@mail.com,Delh,clothing,8.0,2698.0,2026-03-12
+2010,customer 203,user91@mail.com,Pune,Grocery,4.0,$236,18-Apr-2026
+1291,customer 276,user93@mail.com,Delhi,Electronics ,2.0,4394.0,2025-08-08
+2097,customer 147,user16@mail.com,Pune,Furniture,,1441.0,03/01/2026
+1790,customer 99,user41@mail.com,Pune,Electronics,3.0,900000,16-May-2026
+1693,customer 266,,mumbai,Furniture,9.0,4823.0,2026-06-22
+1022,,user217@mail.com,Delhi,Clothing,6.0,1932.0,2026-05-25
+1915,customer 119,not_an_email,Delhi,Grocery,4.0,772.0,27-Oct-2025
+2156,customer 108,user202@mail.com,Chennai,CLOTHING,9.0,1772.0,
+2196,customer 78,user2@mail.com,Pune,Furniture,3.0,$2078,29-Dec-2025
+1258,customer 119,user160@mail.com, Mumbai ,Grocery,9.0,184.0,10-Jul-2026
+1227,customer 280,user220@mail.com,Bengaluru,grocery,6.0,3007.0,01/02/2026
+1316,customer 219,user284@mail.com,Delhi,Furniture,1.0,4932.0,23/01/2025
+1624,customer 290,user287@mail.com,PUNE,Grocery,1.0,1959.0,2025-10-05
+1107,customer 116,user84@mail.com,Pune,Clothing,7.0,4245.0,18-Jul-2025
+2135,customer 185,user254@mail.com,,Clothing,5.0,482.0,23/05/2026
+1999,customer 60,user36@mail.com,CHENNAI,Clothing,4.0,1272.0,2026-06-10
+1427,customer 188,user122@mail.com,MUMBAI,Furniture,2.0,916.0,2025-11-27
+1085,customer 153,user191@mail.com,Delhi,Clothing,8.0,1757.0,12/05/2026
+2053,customer 61,user260@mail.com,Mumbai,Clothing,6.0,1392.0,10/04/2026
+1916,customer 51,user213@mail.com, Mumbai ,Clothing,4.0,1834.0,20/07/2025
+1524,customer 271,user84@mail.com,Chenna,electronics,8.0,1470.0,2026-03-10
+1030,customer 175,user28@mail.com,Delhi,Grocery ,1.0,1484.0,2025-04-04
+1010,customer 86,not_an_email,Chennai,electronics,7.0,910.0,08/02/2025
+1438,customer 248,user37@mail.com,Mumbai,Clothing,7.0,,
+1342,customer 71,user161@mail.com,Mumbai,Electronics,7.0,2914.0,22-Oct-2025
+1748,customer 73,user218@mail.com,mumbai,Electronics,6.0,4055.0,06-Dec-2025
+1458,customer 205,user130@mail.com,Pune,Grocery,6.0,191.0,31-Jul-2025
+1827,customer 130,user79@mail.com,BENGALURU,Furniture,3.0,4411.0,18-Mar-2026
+1125,customer 203,user52@mail.com,Pune,Grocery,7.0,2060.0,30-Jul-2026
+1257,customer 54,user14@mail.com,Bengaluru,Furniture,2.0,4586.0,16-Sep-2025
+1897,customer 166,user241@mail.com,Mumbai,Grocery,9.0,4720.0,2025-11-27
+1558,customer 160,user116@mail.com,Bengaluru,furniture,5.0,4684.0,08-Jun-2026
+1313,customer 100,user16@mail.com,Pune,Furniture,5.0,,10-Apr-2026
+1065,customer 4,user26@mail.com,Pune,Clothing,2.0,1453.0,2026-06-14
+1740,customer 76,user277@mail.com,Bengaluru,Clothing,4.0,179.0,16-Jan-2026
+1004,customer 173,user28@mail.com,Pune,Electronics,7.0,716.0,21-Oct-2025
+1743,customer 34,not_an_email,,Furniture,6.0,3184.0,21-Feb-2025
+1198,customer 272,user234@mail.com,Mumbai,Electronics,2.0,4446.0,16-Mar-2025
+1409,customer 172,user235@mail.com,Chenna,Grocery,6.0,1283.0,03/08/2025
+1174,customer 19,user129@mail.com,Chennai,Grocery ,5.0,1793.0,2025-03-24
+2040,customer 115,user12@mail.com,Chennai,Clothing,2.0,2680.0,25-Mar-2025
+1469,customer 49,user56@mail.com,Delhi,Clothing,6.0,,17-Apr-2026
+1202,,user206@mail.com,Bengaluru,Clothing,,1208.0,2026-03-28
+1177,customer 123,user136@mail.com,Chennai,Furniture,6.0,1246.0,29-Jan-2026
+1275,customer 155,user223@mail.com,Bengalur,Clothing,4.0,324.0,22-Feb-2025
+1953,customer 203,user95@mail.com,Delhi,Electronics,1.0,$1149,2025-09-26
+1412,customer 71,user22@mail.com,Pune,Clothing,8.0,4395.0,2025-06-22
+1013,customer 2,user91@mail.com,Mumbai,Clothing,,4616.0,29/04/2025
+1483,customer 76,user121@mail.com,Mumbai,FURNITURE,3.0,3319.0,05/02/2026
+2190,customer 115,user280@mail.com,mumbai,GROCERY,2.0,1639.0,26/02/2025
+2188,customer 230,user250@mail.com, Chennai ,Electronics,6.0,2053.0,2025-12-26
+1538,customer 226,user223@mail.com,mumbai,Clothing,7.0,2902.0,03-Jan-2026
+1117,customer 293,user92@mail.com,Bengaluru,Furniture,8.0,$4746,
+1536,customer 252,user45@mail.com,Bengaluru,Electronics,4.0,1492.0,05/06/2026
+1163,customer 278,user156@mail.com,Pune,Clothing,3.0,2244.0,24-Jul-2025
+1111,customer 45,user258@mail.com,Pune,grocery,4.0,151.0,04/06/2025
+1344,customer 124,user117@mail.com,Chennai,Clothing,,163.0,01/05/2025
+1914,customer 87,user221@mail.com,,Electronics,5.0,3866.0,
+1190,customer 134,user21@mail.com,Pune,Electronics,1.0,303.0,14/08/2025
+1482,customer 49,user222@mail.com,Pune,Furniture,2.0,4647.0,21/09/2025
+2164,customer 44,user259@mail.com,BENGALURU,CLOTHING,9.0,2601.0,05-Jan-2026
+1643,customer 45,user94@mail.com,PUNE,Clothing,9.0,3671.0,2025-01-10
+1130,customer 108,user136@mail.com,Delhi,Electronics,2.0,1596.0,2025-08-11
+2049,customer 157,user266@mail.com,Mumba,Furniture,6.0,$4766,19/11/2025
+2055,customer 288,user18@mail.com,MUMBAI,Electronics,5.0,2598.0,2025-01-28
+1338,customer 38,user259@mail.com,Mumbai,Furniture,3.0,2694.0,08-Nov-2025
+1744,customer 163,user74@mail.com,Bengaluru,Furniture,9.0,3361.0,2025-10-26
+1072,customer 216,user272@mail.com,Bengaluru,Furniture,,3599.0,27/04/2025
+1860,customer 279,user228@mail.com,Mumbai,Furniture,3.0,$3606,17/06/2026
+1640,customer 277,user294@mail.com,Chennai,ELECTRONICS,4.0,4515.0,2026-03-25
+1515,customer 226,user297@mail.com,delhi,Furniture,4.0,2188.0,27-Nov-2025
+1966,customer 170,user125@mail.com, Pune ,Furniture,3.0,3843.0,31/03/2025
+1737,customer 262,user89@mail.com,Delhi,Electronics,5.0,4543.0,02-Mar-2025
+1012,customer 273,user82@mail.com,Mumbai,furniture,9.0,2251.0,09-Jul-2025
+1447,customer 191,user169@mail.com,Bengaluru,Electronics,3.0,2158.0,08/02/2026
+1653,customer 28,user214@mail.com,Mumbai,Electronics,8.0,4234.0,2025-07-25
+1208,customer 130,user290@mail.com,Mumbai,Clothing,8.0,3729.0,22-May-2025
+1303,customer 242,user198@mail.com,Mumbai,Electronics,6.0,3392.0,2025-04-24
+1576,customer 64,user203@mail.com,Bengaluru,Electronics ,9.0,$101,2026-02-05
+1565,customer 20,user28@mail.com,Mumbai,Grocery,6.0,4548.0,31/03/2025
+2122,customer 254,user32@mail.com,Pune,Furniture,9.0,3678.0,24/06/2026
+1620,,user113@mail.com,Pune,Furniture,7.0,2526.0,08/05/2026
+1340,customer 226,user65@mail.com,Delhi,Furniture,5.0,2117.0,14/11/2025
+1346,customer 27,user19@mail.com,Chennai,Grocery,,4952.0,11/01/2025
+2091,customer 103,user139@mail.com,Delhi,Furniture,3.0,1466.0,2025-03-13
+1304,customer 204,user74@mail.com,Pune,Electronics,9.0,1248.0,09/09/2025
+1036,customer 210,user18@mail.com,Chennai,furniture,5.0,1934.0,2026-05-25
+1042,customer 253,user69@mail.com,Bengaluru,Electronics,,743.0,25-Jan-2025
+1625,customer 164,user236@mail.com,Chennai,Furniture,8.0,2029.0,19-Apr-2026
+1727,customer 155,user76@mail.com,Chennai,Furniture,6.0,2245.0,06-Jul-2026
+1793,customer 227,user242@mail.com,Bengaluru,Furniture,6.0,563.0,16-Nov-2025
+1786,customer 291,user19@mail.com,Mumbai,Clothing,4.0,4921.0,2026-05-06
+1459,customer 241,user91@mail.com,Mumbai,Clothing,2.0,2852.0,2025-07-25
+1423,customer 96,user112@mail.com, Bengaluru ,Furniture,5.0,2236.0,09/03/2025
+1831,customer 207,user57@mail.com, Pune ,Furniture,5.0,707.0,30/05/2026
+1948,customer 148,user280@mail.com,Mumbai,Furniture,3.0,970.0,28-Jul-2026
+1294,customer 75,user75@mail.com,PUNE,Furniture,2.0,2373.0,2026-06-03
+1585,customer 240,user101@mail.com,Delhi,Grocery,,3695.0,2025-01-10
+1026,customer 297,user56@mail.com,Bengaluru,Electronics,8.0,1918.0,04/11/2025
+1724,customer 233,user99@mail.com,Chennai,Electronics,6.0,1057.0,27/06/2026
+2093,customer 77,user264@mail.com,Pune,Furniture ,,1727.0,15-Feb-2026
+1884,customer 4,user274@mail.com,Mumbai,Electronics,4.0,3989.0,14-Nov-2025
+1510,customer 256,user179@mail.com,Chennai,ELECTRONICS,7.0,1824.0,26/01/2025
+1773,customer 264,user114@mail.com,Chennai,Furniture,3.0,4842.0,2025-04-03
+1353,customer 229,user131@mail.com,,Furniture,2.0,1109.0,30/06/2026
+1881,customer 178,user49@mail.com,Mumbai,Grocery,7.0,2039.0,2025-12-24
+1055,customer 275,user36@mail.com,Mumbai,FURNITURE,3.0,2621.0,19-Aug-2025
+1463,customer 216,user112@mail.com,Pune,Electronics,8.0,746.0,28-May-2025
+1216,customer 259,user55@mail.com,Pune,grocery,3.0,777.0,22-Jan-2026
+1771,customer 140,user163@mail.com,Pune,Electronics,6.0,3692.0,29-May-2025
+1040,customer 140,user238@mail.com,Mumbai,Electronics,6.0,3815.0,04-Dec-2025
+1396,customer 171,user130@mail.com,Bengaluru,Clothing,1.0,1844.0,23-Mar-2026
+2198,customer 180,user23@mail.com,Pune,FURNITURE,5.0,675.0,22/08/2025
+1738,,user257@mail.com,Chennai,Grocery,2.0,4391.0,2025-08-10
+2007,customer 142,user233@mail.com,Chennai,Clothing,4.0,900000,08-Sep-2025
+1994,customer 68,user244@mail.com,Pune,clothing,6.0,2809.0,2025-08-29
+2146,customer 64,user137@mail.com,Pune,Furniture,8.0,3175.0,04-Jan-2025
+1178,customer 64,user225@mail.com,Chennai,Grocery,8.0,$4553,2025-08-16
+1176,customer 295,user293@mail.com,Pune,Electronics,3.0,475.0,2025-03-27
+1507,customer 74,user60@mail.com,Pune,Electronics,7.0,,20/07/2026
+1570,customer 244,user251@mail.com,Bengaluru,Clothing,9.0,3972.0,07-Jun-2025
+2084,customer 178,user16@mail.com,Pune,Grocery,2.0,4190.0,24-Nov-2025
+1300,customer 223,user145@mail.com,Bengaluru,Clothing,8.0,2631.0,25-Jul-2026
+2170,customer 256,,Pune,Furniture,2.0,3048.0,2025-12-02
+2168,customer 99,user181@mail.com, Pune ,Furniture,6.0,488.0,29-Dec-2025
+1639,customer 228,user259@mail.com,Pune,Clothing,8.0,572.0,03-Dec-2025
+1883,customer 67,not_an_email,Delhi,Electronics,7.0,1385.0,2025-09-23
+2025,customer 17,user89@mail.com,bengaluru,Clothing ,2.0,1153.0,2025-10-02
+1846,customer 221,not_an_email,Mumbai,Clothing,3.0,837.0,20-May-2025
+1518,customer 263,user237@mail.com,Pun,Electronics,6.0,4565.0,2025-10-18
+1763,customer 95,user181@mail.com,Bengaluru,Furniture,9.0,4935.0,02-Jul-2026
+1941,customer 11,not_an_email,Delhi,Furniture,,1828.0,29/06/2026
+1761,customer 13,user100@mail.com,Chennai,Clothing,8.0,4185.0,12-Dec-2025
+2023,customer 231,user154@mail.com, Delhi ,Clothing,4.0,1271.0,11-Mar-2026
+1029,customer 151,user1@mail.com,Chennai,Clothing,8.0,1281.0,
+1633,customer 275,user255@mail.com,BENGALURU,Grocery ,-5.0,1170.0,06/01/2025
+1561,customer 202,user269@mail.com,Pune,Electronics,2.0,$2447,2025-02-09
+2094,customer 270,user247@mail.com,Chennai,Furniture,9.0,3215.0,16/06/2025
+1901,customer 140,user42@mail.com,Bengaluru,Clothing,1.0,3184.0,2025-04-30
+1818,,user34@mail.com,Pune,Furniture,2.0,3164.0,2025-01-27
+1203,customer 197,user225@mail.com,Bengaluru,Furniture,6.0,363.0,2025-06-21
+1444,customer 175,user249@mail.com,delhi,Clothing,5.0,2978.0,04/02/2026
+1371,customer 14,user39@mail.com, Mumbai ,Electronics,8.0,1423.0,14-Feb-2026
+1032,customer 153,user283@mail.com, Bengaluru ,Electronics,1.0,3810.0,25/10/2025
+1745,customer 293,user288@mail.com,Bengaluru,Furniture,5.0,3677.0,15/11/2025
+1909,customer 192,user259@mail.com,,Clothing,6.0,1869.0,2025-01-02
+1334,customer 137,user65@mail.com,Mumbai,Furniture,1.0,126.0,2025-10-02
+1382,customer 291,user276@mail.com,Pune,Grocery ,9.0,590.0,15-Apr-2026
+1777,customer 248,user21@mail.com,Pune,Grocery,5.0,$225,30/05/2025
+1854,customer 143,user123@mail.com,Mumbai,Furniture,5.0,272.0,15-May-2025
+1372,customer 51,not_an_email,mumbai,FURNITURE,1.0,3442.0,2025-10-25
+1900,customer 47,user140@mail.com,Mumbai,Clothing,1.0,4336.0,
+1678,customer 46,user197@mail.com,Mumbai,Clothing,2.0,680.0,2026-01-03
+1003,customer 269,user226@mail.com,Bengaluru,Grocery ,3.0,4089.0,2025-07-02
+1690,customer 282,user194@mail.com,Delhi,Furniture,,2971.0,2026-01-24
+1642,customer 39,user272@mail.com,Pune,Electronics,8.0,4391.0,2025-11-12
+1429,customer 239,user113@mail.com,BENGALURU,Electronics ,1.0,3313.0,2025-02-27
+1925,customer 151,user297@mail.com,Bengaluru,Clothing,3.0,2460.0,26/10/2025
+2102,customer 70,user150@mail.com,Delhi,Clothing,7.0,771.0,08/06/2026
+1445,customer 172,user226@mail.com,Chennai,Grocery,3.0,2873.0,2025-09-15
+1041,customer 65,user64@mail.com,Bengaluru,Furniture ,4.0,946.0,11-Aug-2026
+1222,customer 236,user174@mail.com,Pune,Electronics,6.0,4415.0,2025-11-22
+2141,customer 245,user27@mail.com,Mumbai,Electronics,8.0,4418.0,19-Jun-2026
+1752,customer 247,user222@mail.com,Bengaluru,Electronics ,,488.0,2026-07-20
+1985,customer 265,user246@mail.com,Mumbai,Electronics,1.0,4929.0,17/03/2026
+1113,customer 245,, Delhi ,Grocery,9.0,1435.0,14/12/2025
+1048,customer 133,user215@mail.com,Mumbai,Clothing,3.0,,06-Mar-2025
+1289,customer 124,not_an_email,Pune,Furniture,1.0,519.0,13/10/2025
+1076,customer 185,user110@mail.com,Mumbai,Grocery,8.0,742.0,11/01/2026
+1206,,user22@mail.com,Mumba,electronics,2.0,1133.0,30/03/2025
+2033,customer 19,user18@mail.com,Delhi,Grocery,4.0,4571.0,25/04/2026
+1123,customer 191,user82@mail.com,Mumba,FURNITURE,2.0,900000,2025-01-18
+2134,customer 135,user102@mail.com,Pun,Grocery,4.0,1479.0,
+1386,customer 92,user105@mail.com,Delhi,Furniture,9.0,1625.0,02/08/2025
+1225,customer 46,user163@mail.com,Pun,Grocery,8.0,109.0,19-Jan-2026
+2153,customer 199,user39@mail.com,Chennai,Electronics,1.0,3472.0,04-May-2025
+1632,customer 76,user68@mail.com,Chennai,Clothing,1.0,1575.0,28/04/2026
+1710,customer 51,user297@mail.com,Chennai,Grocery,5.0,567.0,08/01/2025
+1221,customer 229,user245@mail.com,mumbai,Grocery,8.0,2755.0,23-Jul-2026
+1683,customer 94,user131@mail.com,Pune,Clothing,3.0,1110.0,15/06/2026
+2120,customer 287,user206@mail.com,Mumbai,Furniture,7.0,2139.0,28-Dec-2025
+2146,customer 64,user137@mail.com,Pune,Furniture,8.0,3175.0,04-Jan-2025
+1617,customer 10,user20@mail.com,Bengaluru,Grocery,2.0,4886.0,2025-10-14
+1801,customer 99,user260@mail.com, Bengaluru ,Grocery,9.0,4331.0,04/05/2026
+2180,customer 237,user290@mail.com,Pune,Electronics,3.0,3065.0,05-May-2026
+2163,customer 265,user74@mail.com,Mumbai,Grocery,3.0,422.0,31-May-2025
+2169,customer 10,user274@mail.com,Chennai,Furniture,1.0,3064.0,01/05/2025
+1161,customer 58,user2@mail.com,,Electronics,7.0,2504.0,25/01/2026
+1692,customer 87,not_an_email,Mumbai,Electronics,3.0,675.0,18-Jun-2025
+1673,customer 230,user297@mail.com,Delhi,Clothing,9.0,3260.0,29-Apr-2025
+1408,customer 228,user199@mail.com,Pune,Clothing,8.0,1893.0,25/10/2025
+1629,customer 115,user53@mail.com,Mumbai,Furniture,5.0,4431.0,31/01/2025
+1959,customer 55,user280@mail.com,Bengaluru,Grocery,8.0,4178.0,26/09/2025
+1325,customer 252,user84@mail.com,Bengaluru,Electronics,8.0,1281.0,2025-06-08
+1852,customer 229,user130@mail.com,bengaluru,Furniture,1.0,2510.0,08-May-2026
+1998,customer 23,user120@mail.com,Bengaluru,Electronics,,4496.0,09/10/2025
+1671,customer 65,user14@mail.com,,grocery,,2878.0,14-Aug-2026
+1834,customer 215,user75@mail.com,bengaluru,clothing,6.0,1336.0,26/01/2026
+1646,customer 273,user109@mail.com,Chennai,Grocery,9.0,1431.0,10/05/2025
+1667,customer 57,user151@mail.com,,FURNITURE,9.0,3806.0,20-Jul-2025
+1139,customer 65,user172@mail.com,Delhi,electronics,5.0,4863.0,12/01/2026
+1816,customer 31,user103@mail.com,Chennai,Grocery,6.0,2299.0,25/07/2026
+1971,customer 134,user149@mail.com,Delhi,Clothing,1.0,715.0,27-Jun-2025
+1572,customer 84,,Delhi,electronics,3.0,2918.0,2025-10-25
+1352,customer 1,user291@mail.com,Mumbai,CLOTHING,9.0,2062.0,2026-06-17
+2140,customer 141,user250@mail.com,Chennai,Furniture,2.0,,14/05/2025
+1165,customer 166,user111@mail.com,Delh,electronics,1.0,4524.0,16-Jul-2026
+1214,customer 84,user232@mail.com,Chennai,Electronics,5.0,4128.0,23/09/2025
+2062,customer 119,user267@mail.com,Bengaluru,Grocery,9.0,1601.0,2026-04-11
+1297,customer 156,user261@mail.com,Pune,Clothing,1.0,,2026-03-04
+1394,customer 137,user251@mail.com,BENGALURU,Clothing,5.0,1222.0,07-Apr-2025
+1131,customer 72,user65@mail.com,Pune,clothing,7.0,1785.0,12-Nov-2025
+1314,customer 186,user257@mail.com,Mumbai,Clothing,3.0,2445.0,10-May-2025
+1138,customer 285,user24@mail.com,Delhi,Clothing,8.0,574.0,2026-08-09
+1931,customer 114,,Delhi,ELECTRONICS,-5.0,125.0,17/02/2026
+1341,customer 140,user266@mail.com,Chennai,Grocery,2.0,$4248,2025-05-23
+1416,customer 270,user65@mail.com,Chennai,Grocery,4.0,2486.0,
+1837,customer 201,user129@mail.com,Delhi,Clothing,6.0,423.0,02-Jun-2026
+1038,customer 102,user15@mail.com,Chennai,Grocery,3.0,2006.0,24-Dec-2025
+1249,customer 218,user75@mail.com,Bengaluru,furniture,-5.0,1470.0,19-Oct-2025
+2125,customer 137,user289@mail.com,Pune,Clothing,4.0,1403.0,20/12/2025
+1053,customer 140,user244@mail.com,Chennai,Grocery,3.0,2010.0,08-Dec-2025
+1706,customer 295,user124@mail.com, Chennai ,ELECTRONICS,7.0,2822.0,23-May-2025
+1136,customer 122,,Delhi,Grocery ,7.0,2280.0,03-Apr-2025
+1978,customer 85,user159@mail.com,delhi,Electronics,,1757.0,2026-01-13
+1996,customer 162,user21@mail.com,Pun,Furniture,,2980.0,23-Oct-2025
+1035,customer 238,user43@mail.com,Chennai,GROCERY,3.0,4869.0,04/05/2026
+1810,customer 51,user15@mail.com,Delhi,Electronics,6.0,3464.0,25-Mar-2025
+1657,customer 35,user260@mail.com,Bengaluru,Grocery,5.0,3730.0,03-Jan-2025
+1378,customer 212,user246@mail.com,Delhi,Furniture,7.0,$1066,06-Apr-2025
+1955,customer 175,user208@mail.com,Mumbai,Electronics,3.0,772.0,02/11/2025
+1578,customer 191,user62@mail.com,Pune,Furniture,6.0,2112.0,29-May-2026
+1843,customer 230,user87@mail.com,chennai,clothing,,2725.0,2025-05-13
+1833,customer 250,user175@mail.com,Bengaluru,Clothing,5.0,4066.0,2025-05-21
+1788,customer 102,user131@mail.com,Pune,Grocery,1.0,775.0,17/08/2026
+1052,,user95@mail.com,Chennai,Grocery,4.0,882.0,23-Sep-2025
+1377,customer 76,user28@mail.com,Bengaluru,Clothing,5.0,1929.0,2026-02-04
+1210,customer 205,user132@mail.com,Delhi,Clothing,8.0,777.0,02/01/2025
+1480,customer 268,user197@mail.com,Delhi,Grocery,3.0,4465.0,02/08/2026
+1302,,user181@mail.com,Bengaluru,Electronics,2.0,1843.0,28/08/2025
+2158,customer 283,user141@mail.com,Mumbai,Grocery,3.0,$4444,2026-05-02
+1246,customer 285,user182@mail.com,Pune,Furniture,8.0,742.0,26/06/2025
+1817,customer 85,user39@mail.com,Delhi,Grocery,5.0,$4793,20-Feb-2026
+1425,customer 34,user282@mail.com,Chennai,Grocery ,9.0,3851.0,06/06/2026
+1907,customer 203,user129@mail.com,Chennai,Furniture,3.0,3549.0,2026-05-15
+1028,customer 143,,Bengaluru,Clothing,3.0,3818.0,03/02/2025
+1920,customer 127,user161@mail.com,Pune,CLOTHING,9.0,763.0,02/05/2026
+1962,customer 191,user31@mail.com,Delhi,Electronics,1.0,4996.0,01-Jan-2026
+1244,customer 146,user202@mail.com,Mumbai,Grocery,2.0,2458.0,12-Jul-2025
+1103,customer 179,user62@mail.com,PUNE,grocery,8.0,$3408,09/09/2025
+1276,customer 285,user143@mail.com,Chennai,Clothing,5.0,2139.0,20/02/2026
+1393,customer 7,user138@mail.com,Delhi,Electronics,4.0,$1580,02-May-2025
+1110,customer 68,user16@mail.com,Bengaluru,Electronics,6.0,$1791,18/04/2026
+1825,customer 285,user4@mail.com,Mumbai,furniture,3.0,3388.0,30-Mar-2025
+1159,customer 44,user260@mail.com,MUMBAI,Electronics,6.0,907.0,03/05/2026
+1747,customer 282,user148@mail.com,Chennai,Clothing ,7.0,$2889,08-May-2025
+2128,customer 8,user20@mail.com, Mumbai ,Furniture,7.0,2723.0,26-Oct-2025
+1112,customer 115,user125@mail.com,Delhi,Grocery,9.0,,2025-12-24
+1903,customer 186,user163@mail.com,Bengaluru,Furniture,5.0,$190,2025-03-31
+1660,customer 160,user297@mail.com,CHENNAI,Furniture,9.0,4817.0,29-Mar-2026
+1840,customer 13,user288@mail.com,Mumbai,Electronics,8.0,680.0,2025-02-15
+1812,customer 115,user286@mail.com,delhi,clothing,2.0,4388.0,2026-03-05
+1329,customer 181,user100@mail.com,Mumbai,Electronics,,1448.0,24-Oct-2025
+1262,customer 260,user148@mail.com,Delhi,Electronics,3.0,4489.0,2025-12-03
+1735,customer 237,user151@mail.com,Chennai,Furniture ,9.0,3598.0,16/06/2025
+1775,customer 228,user105@mail.com,Mumbai,Grocery,8.0,3187.0,2025-07-26
+1133,customer 121,user221@mail.com,,Grocery,7.0,646.0,07/01/2026
+1637,customer 42,user73@mail.com,Mumbai,Grocery,4.0,2162.0,2025-03-24
+1685,customer 216,user285@mail.com,Pune,Grocery,2.0,655.0,21/05/2025
+1968,customer 153,user125@mail.com,Bengaluru,Furniture,6.0,4077.0,2025-11-04
+1167,customer 54,user228@mail.com,Mumbai,Furniture ,8.0,2838.0,2025-03-04
+2138,customer 247,user180@mail.com,Mumbai,Grocery,3.0,1230.0,22/12/2025
+2058,customer 257,,Chennai,Electronics,5.0,1361.0,05/09/2025
+1154,customer 182,user253@mail.com,,Clothing,6.0,3671.0,13-Jul-2025
+1050,customer 43,user127@mail.com,Pune,Electronics,6.0,3028.0,22/11/2025
+1024,customer 216,user114@mail.com,Mumbai,Furniture,4.0,4133.0,25/09/2025
+2150,customer 100,user86@mail.com,Delhi,Clothing,1.0,4192.0,2025-03-22
+1443,customer 59,user19@mail.com,Delhi,Grocery,,305.0,26/02/2026
+1755,customer 152,user241@mail.com,Delhi,GROCERY,3.0,4528.0,13/03/2026
+1736,customer 55,, Pune ,Furniture,3.0,1168.0,2026-06-01
+1150,customer 253,user240@mail.com,Delhi,Clothing,5.0,,31/10/2025
+1553,customer 29,user212@mail.com,Delhi,Grocery,8.0,127.0,2025-01-23
+1094,customer 74,user44@mail.com,Chennai,Clothing,4.0,3928.0,06-Jul-2025
+2101,customer 132,user115@mail.com,,Furniture,7.0,511.0,06/10/2025
+1217,customer 107,user50@mail.com,CHENNAI,Furniture,1.0,3688.0,25/07/2026
+1645,customer 214,user152@mail.com,Chennai,Grocery,6.0,1620.0,07-Jun-2026
+1381,,user281@mail.com,,Electronics,5.0,3365.0,2025-02-05
+1023,customer 84,user204@mail.com,Pune,Grocery,3.0,2956.0,16-Jul-2025
+1780,customer 250,user127@mail.com,Delhi,Grocery,7.0,807.0,2025-12-02
+1292,customer 29,user263@mail.com,Chennai,Grocery,3.0,985.0,2025-12-27
+1712,customer 171,user93@mail.com,Chennai,Furniture,2.0,4698.0,2026-08-20
+1173,customer 171,user243@mail.com,Mumbai,Clothing,9.0,1827.0,27/08/2025
+1100,customer 206,user168@mail.com,Pune,Electronics,3.0,2454.0,2025-03-04
+1025,customer 77,user256@mail.com,Bengaluru,Clothing,8.0,447.0,
+1603,customer 56,user175@mail.com,BENGALURU,Grocery,7.0,,30/04/2026
+1339,customer 288,user122@mail.com, Mumbai ,GROCERY,3.0,4124.0,12-Apr-2025
+1783,customer 255,user30@mail.com,Bengaluru,Grocery ,,3959.0,27/07/2026
+1863,customer 26,user263@mail.com,Pune,Electronics,3.0,4571.0,27-Nov-2025
+2114,customer 66,user266@mail.com,Mumbai,Electronics,3.0,2348.0,24/06/2026
+1489,customer 31,user105@mail.com,Mumbai,Clothing,3.0,890.0,28-Mar-2025
+1874,customer 36,user210@mail.com,PUNE,grocery,6.0,1944.0,2025-08-18
+1734,customer 283,user264@mail.com,Bengaluru,Electronics,8.0,1174.0,27/11/2025
+2047,customer 143,user175@mail.com,Pune,Electronics,7.0,1572.0,2025-11-13
+1700,customer 223,user262@mail.com,Bengaluru,Clothing,4.0,4118.0,18/01/2026
+1354,customer 210,user90@mail.com,Mumbai,Electronics,4.0,4485.0,06-Jan-2025
+1859,customer 157,user118@mail.com,Pune,Clothing,5.0,1980.0,29-Jun-2025
+1750,customer 203,user197@mail.com, Delhi ,Furniture,9.0,4392.0,2025-10-04
+1957,customer 126,,Pune,Furniture,,3027.0,07-May-2026
+1588,customer 39,user55@mail.com, Pune ,Furniture,4.0,1916.0,25-May-2025
+1242,customer 259,user249@mail.com, Mumbai ,CLOTHING,7.0,2689.0,15-Mar-2026
+1168,customer 113,user227@mail.com,Bengaluru,Grocery,8.0,3222.0,
+1073,customer 111,user94@mail.com, Chennai ,Furniture,4.0,,22/02/2026
+1559,customer 247,user288@mail.com,bengaluru,clothing,3.0,2171.0,29/12/2025
+2070,customer 242,user274@mail.com,Bengaluru,Clothing,1.0,4500.0,2025-05-01
+1228,customer 92,user95@mail.com,Bengaluru,Clothing,9.0,4833.0,2026-07-04
+1118,customer 118,user153@mail.com,Mumbai,Clothing,3.0,3562.0,24-Oct-2025
+1782,customer 89,user21@mail.com,Delhi,Electronics,2.0,3980.0,2026-03-21
+1114,customer 120,user115@mail.com,Mumbai,Furniture,9.0,2699.0,16-Aug-2025
+1520,customer 50,user240@mail.com,Delhi,GROCERY,8.0,2270.0,28/02/2026
+1933,,user234@mail.com,Mumbai,Clothing ,1.0,376.0,12-Jul-2025
+1005,customer 232,user101@mail.com,Mumbai,Grocery,6.0,3622.0,06/04/2026
+1475,customer 65,user227@mail.com,Mumbai,Electronics,9.0,2344.0,05/08/2025
+1970,customer 97,user273@mail.com,Pune,Electronics,1.0,3257.0,17-May-2026
+1869,customer 279,user41@mail.com,Bengaluru,Clothing,9.0,3522.0,2025-07-16
+1069,customer 207,user229@mail.com,Pune,FURNITURE,6.0,2229.0,2025-10-19
+1014,customer 150,user291@mail.com,Bengalur,Clothing,6.0,4434.0,09-Mar-2026
+1984,customer 95,user53@mail.com,chennai,Grocery,,,04/08/2026
+1916,customer 51,user213@mail.com, Mumbai ,Clothing,4.0,1834.0,20/07/2025
+1369,customer 274,user209@mail.com,Chennai,Furniture,4.0,673.0,29-May-2025
+1078,customer 199,user211@mail.com,Bengaluru,Electronics,3.0,3551.0,2025-01-17
+2165,customer 35,user122@mail.com,Delhi,Electronics,2.0,4669.0,2025-01-28
+1905,customer 245,user189@mail.com,pune,Grocery,8.0,2028.0,08/01/2025
+1479,customer 283,,Pune,Furniture,9.0,3830.0,2026-05-11
+1516,customer 232,user144@mail.com,Bengaluru,Clothing,6.0,3270.0,04-Dec-2025
+2129,customer 81,user39@mail.com,Pune,furniture,5.0,,2025-01-28
+1652,customer 130,,Delhi,Clothing,2.0,3436.0,11/06/2025
+1054,customer 242,not_an_email,Bengaluru,Electronics,1.0,1783.0,2026-07-21
+1467,customer 267,user191@mail.com,Chennai,Furniture,6.0,972.0,26-Jul-2025
+1266,customer 42,user282@mail.com,Mumbai,Grocery,5.0,$1728,12/04/2025
+2104,customer 149,user117@mail.com,Pune,Grocery ,4.0,3543.0,22/07/2025
+1198,customer 272,user234@mail.com,Mumbai,Electronics,2.0,4446.0,16-Mar-2025
+1583,customer 56,user270@mail.com,Mumbai,Clothing,2.0,3881.0,05-Jun-2025
+1766,,user178@mail.com,Chennai,Electronics,7.0,3363.0,2025-12-20
+1514,customer 104,user14@mail.com,delhi,Grocery,7.0,2756.0,26-Apr-2026
+1537,customer 92,user23@mail.com,bengaluru,Grocery,6.0,3886.0,23/11/2025
+2173,customer 274,user49@mail.com,Pune,CLOTHING,3.0,709.0,2025-05-14
+1728,customer 211,user218@mail.com,Chennai,Electronics,4.0,166.0,2025-01-17
+2176,customer 113,user237@mail.com,Mumbai,Clothing,5.0,1870.0,02/01/2025
+1059,customer 154,user11@mail.com,Chenna,Grocery,5.0,2405.0,2026-08-12
+1503,,user61@mail.com,Pune,Grocery,9.0,3178.0,14/02/2025
+1954,customer 75,user238@mail.com,Bengaluru,Electronics,8.0,4592.0,15-Sep-2025
+1166,customer 15,user170@mail.com,Delhi,Clothing,3.0,1896.0,10-Aug-2026
+2027,customer 220,user165@mail.com,Delhi,Electronics ,4.0,772.0,04/11/2025
+1983,customer 80,user181@mail.com,Mumbai,Grocery,8.0,1075.0,
+1331,customer 144,user226@mail.com,Bengaluru,Electronics,2.0,1719.0,29-Dec-2025
+2154,customer 294,user84@mail.com,Chennai,Electronics ,6.0,2645.0,27/03/2026
+1500,customer 92,user168@mail.com,Bengaluru,Clothing,2.0,4679.0,2026-01-03
+1247,customer 154,user31@mail.com,Delhi,Clothing,4.0,3094.0,21/07/2025
+1373,customer 10,user271@mail.com,Mumba,Electronics ,8.0,1010.0,2026-02-21
+2041,customer 113,user231@mail.com,,Electronics,9.0,4940.0,28-Jun-2025
+1472,customer 148,user297@mail.com,Delhi,Furniture,2.0,3666.0,30/05/2026
+1499,customer 113,user24@mail.com,Bengaluru,Electronics,1.0,1535.0,01/08/2026
+1943,customer 117,user262@mail.com,Mumbai,electronics,6.0,4174.0,15/07/2026
+2088,customer 119,user222@mail.com,Chennai,Clothing,5.0,664.0,28-Jun-2025
+1636,customer 238,user251@mail.com,,Clothing,6.0,448.0,2025-09-13
+1616,customer 143,user92@mail.com,Pune,Electronics,3.0,4007.0,10-Jun-2026
+1563,,user191@mail.com,Delhi,Grocery ,5.0,2394.0,20/11/2025
+1135,customer 29,user276@mail.com,Pune,Furniture,1.0,$3592,2025-07-25
+1307,customer 215,user50@mail.com,Bengaluru,Grocery ,8.0,1361.0,01-Jun-2026
+1560,customer 255,user196@mail.com,Delhi,Electronics,7.0,478.0,16/02/2026
+1889,customer 60,user178@mail.com,Mumbai,Grocery,6.0,3617.0,2026-07-05
+1720,customer 256,user118@mail.com,Pune,CLOTHING,2.0,520.0,2026-04-19
+1566,customer 70,user262@mail.com,Mumba,Electronics,1.0,3587.0,02/02/2026
+1501,customer 112,user290@mail.com,Delhi,Furniture,3.0,$4731,2025-03-29
+1627,customer 216,user136@mail.com, Delhi ,grocery,6.0,1000.0,2026-07-20
+1234,customer 193,user209@mail.com,DELHI,Furniture,6.0,4659.0,17-Jan-2026
+1626,customer 7,user79@mail.com,Mumbai,Clothing ,3.0,507.0,
+2048,customer 57,user163@mail.com,Delhi,Grocery,3.0,1307.0,21/04/2025
+1430,customer 91,user66@mail.com,Mumbai,Clothing,1.0,$2315,09-Dec-2025
+2133,customer 56,,,ELECTRONICS,7.0,1214.0,02-Jul-2025
+1952,customer 227,user253@mail.com,Pune,Grocery,8.0,809.0,06-Jul-2025
+1191,customer 225,user170@mail.com,Chennai,Grocery,1.0,4560.0,22-Nov-2025
+1911,customer 122,user117@mail.com,MUMBAI,Furniture,1.0,4054.0,03/06/2025
+1151,customer 253,,Delhi,Furniture,2.0,3187.0,27-Dec-2025
+1691,customer 298,user46@mail.com,Mumba,Clothing,8.0,1888.0,28-Feb-2026
+1435,customer 239,user135@mail.com,mumbai,Furniture,5.0,4409.0,2025-04-04
+1836,,user35@mail.com,Delhi,Furniture,5.0,4455.0,05/08/2026
+2014,,user77@mail.com,Bengaluru,clothing,2.0,1515.0,2026-02-25
+1666,,user132@mail.com,Delhi,Electronics,8.0,2395.0,26-Feb-2026
+1256,customer 32,user211@mail.com,Pune,Furniture,1.0,364.0,03/07/2026
+1306,customer 93,user147@mail.com,Mumbai,Clothing,,3175.0,2025-06-23
+1278,customer 269,user209@mail.com,Pun,Grocery,7.0,789.0,09/04/2026
+1992,customer 67,user130@mail.com, Mumbai ,Electronics,4.0,3017.0,08/02/2025
+1184,customer 170,user224@mail.com,Bengaluru,Furniture,7.0,4037.0,23/08/2025
+1687,customer 137,user284@mail.com,MUMBAI,Clothing,4.0,1826.0,05-Mar-2025
+1541,customer 186,user100@mail.com,Pun,Grocery,4.0,2383.0,2026-05-11
+1638,customer 9,user276@mail.com,Chennai,Electronics,2.0,2882.0,2026-04-29
+1569,customer 227,user9@mail.com,Pune,Electronics,9.0,1796.0,2025-02-26
+1582,customer 266,,Chennai,Clothing,4.0,2456.0,07-Jan-2025
+1383,customer 170,user10@mail.com,Mumbai,Clothing,1.0,4867.0,23-Jan-2025
+1145,customer 262,user38@mail.com,Bengaluru,Furniture,8.0,4006.0,04/09/2025
+1336,customer 113,user128@mail.com,Mumbai,Furniture,1.0,352.0,2026-03-06
+2172,customer 204,user72@mail.com,pune,clothing,,4321.0,06/08/2025
+1533,,user11@mail.com,Pune,Grocery,6.0,4315.0,2025-04-09
+1215,customer 205,not_an_email,Bengaluru,Grocery,,2226.0,08-Feb-2025
+2082,customer 85,user271@mail.com,,Grocery,8.0,3609.0,2026-02-27
+1430,customer 91,user66@mail.com,Mumbai,Clothing,1.0,$2315,09-Dec-2025
+1798,customer 251,user130@mail.com,Pune,Grocery,6.0,1367.0,15/09/2025
+1986,customer 93,user193@mail.com,Chennai,Grocery,6.0,4247.0,26-Mar-2025
+1742,customer 102,user154@mail.com,Delhi,Grocery,9.0,1084.0,26/03/2025
+1196,customer 241,user157@mail.com,Pune,Clothing,4.0,1827.0,23/06/2025
+1548,customer 260,user293@mail.com,Bengaluru,Grocery,5.0,3616.0,2025-05-12
+1778,customer 296,user160@mail.com,Mumbai,Furniture,8.0,2286.0,06-Mar-2026
+1495,customer 199,user47@mail.com,Chennai,Clothing,5.0,2975.0,
+1591,customer 299,user238@mail.com, Bengaluru ,Clothing,7.0,2746.0,2025-04-29
+1017,customer 239,user278@mail.com,Mumbai,Furniture,8.0,,04/08/2026
+1713,customer 258,user141@mail.com,CHENNAI,Furniture,7.0,1239.0,18-Feb-2025
+1380,customer 284,user15@mail.com,chennai,Grocery,8.0,367.0,11-Jul-2025
+1027,customer 134,user121@mail.com,Chennai,Clothing,8.0,3023.0,2025-04-20
+1277,customer 156,user131@mail.com,Mumbai,GROCERY,7.0,279.0,2025-08-06
+1789,customer 91,,Chennai,furniture,1.0,2634.0,09/02/2026
+1631,customer 249,user11@mail.com,Mumbai,grocery,3.0,2807.0,2025-01-15
+1395,customer 93,user169@mail.com,Bengaluru,Furniture,2.0,4050.0,14/12/2025
+1866,customer 121,user244@mail.com,Delh,Electronics,2.0,4964.0,2026-05-27
+1228,customer 92,user95@mail.com,Bengaluru,Clothing,9.0,4833.0,2026-07-04
+1862,customer 287,not_an_email,Bengaluru,furniture,4.0,4773.0,2025-05-27
+1320,customer 141,user68@mail.com,Mumbai,Clothing,4.0,4374.0,2026-02-11
+1681,customer 94,user151@mail.com,Mumbai,clothing,4.0,4120.0,09-Jan-2025
+1147,customer 199,user265@mail.com,Mumbai,Clothing,4.0,1340.0,19-Aug-2025
+1797,customer 275,user291@mail.com,Mumbai,Electronics,4.0,2666.0,07/08/2025
+1726,,user161@mail.com,mumbai,Clothing,3.0,3583.0,26-Mar-2025
+1623,customer 116,user243@mail.com,Chennai,Electronics,4.0,575.0,2025-02-07
+1238,customer 254,user53@mail.com,Pune,Electronics,,1117.0,2026-05-03
+1494,customer 58,user229@mail.com,Pune,Furniture,7.0,1399.0,2025-03-06
+1910,customer 125,user141@mail.com,Bengaluru,Electronics,8.0,1443.0,2025-10-02
+1930,customer 240,user241@mail.com,Delhi,Electronics,4.0,747.0,08/07/2025
+1598,customer 181,user8@mail.com,Delh,Furniture,9.0,3678.0,2025-12-21
+1895,,user243@mail.com,Bengalur,Furniture ,9.0,$4619,2025-12-31
+1449,customer 183,user201@mail.com,bengaluru,Grocery,5.0,$3131,2025-10-09
+2086,customer 240,user231@mail.com,Mumbai,Clothing,9.0,,08-Dec-2025
+1220,customer 159,user264@mail.com,Mumbai,Electronics,2.0,2110.0,19/02/2026
+1106,customer 198,user147@mail.com,Bengaluru,grocery,9.0,4967.0,2026-04-12
+1350,customer 203,user134@mail.com, Pune ,Furniture,3.0,3146.0,2025-11-15
+1523,customer 229,user180@mail.com,Delhi,Grocery,1.0,2421.0,2026-01-28
+1650,customer 77,user245@mail.com,Chennai,Electronics,3.0,2522.0,2026-01-04
+1389,customer 50,user21@mail.com,Delhi,Furniture,4.0,$1952,12-Sep-2025
+1448,customer 79,user141@mail.com,Mumbai,Furniture,8.0,1973.0,30/09/2025
+1093,customer 28,user209@mail.com,Bengaluru,Furniture,5.0,1987.0,2026-08-23
+1259,customer 104,user100@mail.com,Mumbai,Clothing,7.0,270.0,2026-07-08
+1554,customer 199,user267@mail.com,Mumbai,Furniture,8.0,529.0,17-Jun-2026
+1675,customer 21,user174@mail.com,BENGALURU,electronics,4.0,1680.0,2026-06-05
+2174,customer 281,user193@mail.com,Bengaluru,Electronics,3.0,,02/06/2025
+1170,customer 290,user115@mail.com,delhi,Furniture,1.0,900000,25/03/2026
+1254,customer 273,user55@mail.com,Pune,Clothing,6.0,1921.0,2025-11-18
+1731,customer 161,user162@mail.com,Chennai,Electronics,4.0,993.0,23-Jan-2026
+2157,customer 231,user144@mail.com,Pune,FURNITURE,,3535.0,24-May-2025
+1602,customer 60,user70@mail.com,Mumbai,Grocery,8.0,3156.0,09/03/2025
+1252,,user181@mail.com,Bengalur,grocery,4.0,4297.0,2025-08-19
+1306,customer 93,user147@mail.com,Mumbai,Clothing,,3175.0,2025-06-23
+1547,customer 265,user278@mail.com,Bengaluru,Clothing,9.0,1087.0,2026-03-03
+1415,customer 288,user80@mail.com,PUNE,Grocery,9.0,4021.0,02/08/2025
+1189,customer 97,user25@mail.com,Pune,Clothing,5.0,3196.0,19/02/2025
+2052,customer 50,not_an_email,Bengaluru,Furniture,2.0,$1780,28-Feb-2025
+1428,customer 38,user224@mail.com,Bengalur,grocery,2.0,914.0,27-Feb-2026
+1186,customer 228,user4@mail.com,BENGALURU,Clothing,5.0,,23/08/2026
+1851,customer 287,user74@mail.com,Pune,Grocery,4.0,4671.0,2026-05-16
+1815,customer 241,user38@mail.com,Delhi,Clothing,1.0,4737.0,15/07/2025
+1908,customer 196,user269@mail.com,Bengaluru,Clothing,3.0,4948.0,22/08/2025
+2034,customer 43,user287@mail.com, Pune ,Grocery,,4891.0,11-Apr-2025
+1269,customer 285,user52@mail.com,Delhi,Grocery,9.0,2893.0,05/09/2025
+1867,customer 167,user29@mail.com,Bengaluru,Electronics,9.0,2490.0,21-Mar-2025
+2020,customer 155,user63@mail.com,Mumbai,Clothing,,$1584,2025-12-17
+1699,customer 118,user219@mail.com,Pun,Furniture,1.0,3038.0,10-Jul-2025
+1630,customer 10,user206@mail.com, Chennai ,electronics,-5.0,2089.0,19/11/2025
+1950,customer 249,user287@mail.com,Chennai,Clothing,5.0,3868.0,05-Mar-2026
+1162,customer 225,user147@mail.com,Chennai,Clothing,3.0,580.0,2025-04-25
+1413,customer 240,user297@mail.com,Bengaluru,Grocery,7.0,4571.0,25/06/2025
+2137,customer 122,user183@mail.com,Chennai,Furniture ,8.0,3107.0,20/02/2026
+1095,customer 162,user116@mail.com,Bengaluru,Furniture,7.0,,05/08/2025
+1098,customer 184,user98@mail.com,DELHI,Furniture ,,685.0,2026-05-27
+1993,customer 260,user2@mail.com,Delhi,Furniture,8.0,2083.0,11-Jan-2025
+1006,customer 250,user158@mail.com,Chennai,Clothing,9.0,2089.0,2026-06-11
+1876,customer 21,user125@mail.com,Delh,Clothing,8.0,3098.0,15/06/2025
+1817,customer 85,user39@mail.com,Delhi,Grocery,5.0,$4793,20-Feb-2026
+1822,,user219@mail.com,Mumbai,Grocery,4.0,922.0,07-Aug-2026
+1207,customer 157,user241@mail.com,Delh,Grocery,3.0,4470.0,16/05/2026
+1974,customer 74,user35@mail.com,Mumbai,Furniture,6.0,4693.0,10-Feb-2026
+1803,customer 281,user263@mail.com,Delh,Clothing ,9.0,990.0,21/05/2025
+1686,customer 75,user109@mail.com,Bengaluru,Electronics,2.0,527.0,15-Aug-2026
+1872,,user84@mail.com,Pune,Clothing,,,26/07/2025
+1245,customer 238,user277@mail.com,PUNE,Clothing,8.0,900000,2025-07-06
+1611,customer 133,user156@mail.com,Mumbai,CLOTHING,1.0,$4729,07-Nov-2025
+1229,customer 2,user121@mail.com,Delhi,Furniture,9.0,,2025-02-23
+1264,customer 295,user149@mail.com,Mumbai,Electronics,5.0,2761.0,01-Apr-2026
+1906,customer 110,user97@mail.com,Pune,Grocery,9.0,1622.0,2026-03-13
+1368,customer 245,user59@mail.com,PUNE,Electronics,5.0,1223.0,2026-05-23
+1008,customer 17,user126@mail.com,Delhi,Grocery,8.0,2105.0,2026-01-22
+1896,customer 33,user158@mail.com,Bengaluru,clothing,3.0,3786.0,04-Nov-2025
+2155,customer 180,user265@mail.com,Mumba,CLOTHING,8.0,3514.0,2025-03-08
+1201,customer 290,user171@mail.com,Mumbai,Electronics,6.0,129.0,26/07/2025
+1729,customer 188,user6@mail.com,Bengalur,Electronics,3.0,3476.0,26/03/2026
+2182,customer 116,user290@mail.com,Bengaluru,Furniture ,1.0,$2922,01/02/2026
+1799,customer 179,user61@mail.com,Chennai,Electronics,8.0,2570.0,14/07/2025
+1865,customer 169,user202@mail.com,Bengaluru,Clothing,6.0,2159.0,01-May-2025
+1403,customer 197,user47@mail.com,Mumbai,Clothing,3.0,3295.0,11-Jun-2026
+2057,customer 87,user214@mail.com,Mumbai,Furniture ,4.0,889.0,24/11/2025
+1791,,user266@mail.com,Chennai,Electronics,1.0,$2613,02-Apr-2025
+2022,customer 240,user228@mail.com,Bengaluru,Electronics,6.0,1008.0,2026-06-12
+1189,customer 97,user25@mail.com,Pune,Clothing,5.0,3196.0,19/02/2025
+1260,,user210@mail.com,Delh,Furniture,3.0,315.0,2025-08-08
+1144,customer 149,user118@mail.com,Delhi,Clothing ,-5.0,674.0,15/12/2025
+1828,customer 68,user223@mail.com,Bengaluru,Furniture,2.0,1572.0,2025-10-09
+1698,customer 19,user289@mail.com, Pune ,Furniture,2.0,$3036,02-Feb-2025
+1919,customer 114,user230@mail.com,Mumbai,electronics,4.0,1942.0,2025-05-08
+2147,customer 268,user289@mail.com,Bengaluru,Grocery,5.0,4884.0,2025-12-08
+1937,customer 134,user192@mail.com,Chennai,Grocery,6.0,2827.0,2025-01-12
+2118,customer 120,not_an_email,Pune,Clothing,9.0,2854.0,2026-02-03
+1890,customer 223,user31@mail.com,Mumbai,Grocery,,2292.0,18/11/2025
+1594,customer 238,user35@mail.com,Chennai,Electronics,2.0,1900.0,2025-01-25
+1531,customer 25,user2@mail.com,,Grocery,2.0,4841.0,2025-06-14
+1894,customer 280,user243@mail.com, Chennai ,Grocery,1.0,4993.0,15/08/2025
+1335,customer 198,user121@mail.com,Delhi,Electronics,6.0,,2026-03-05
+1057,customer 189,user155@mail.com,Chennai,Clothing,3.0,2271.0,31/01/2026
+1282,customer 173,user176@mail.com,Bengaluru,Grocery,1.0,498.0,08-Mar-2025
+1934,customer 27,user162@mail.com,Bengaluru,Grocery,2.0,285.0,2026-06-20
+1362,customer 208,user247@mail.com,Mumbai,Furniture,8.0,4176.0,05/08/2025
+1243,customer 188,user245@mail.com,Mumbai,Furniture,7.0,382.0,2025-10-01
+1092,customer 142,user51@mail.com,Chennai,Electronics,-5.0,1975.0,20/04/2025
+1337,customer 92,user226@mail.com,Delh,Clothing,6.0,4985.0,25-Jul-2026
+2013,customer 112,user25@mail.com,Chennai,Electronics,1.0,4257.0,01/06/2025
+1947,customer 174,user140@mail.com,CHENNAI,GROCERY,3.0,3003.0,2026-08-13
+1190,customer 134,user21@mail.com,Pune,Electronics,1.0,303.0,14/08/2025
+1039,customer 296,user206@mail.com,Pune,Clothing,9.0,3652.0,2025-06-12
+1975,customer 174,user165@mail.com,Mumbai,Electronics,7.0,2744.0,2025-07-01
+1634,customer 109,user96@mail.com,mumbai,Clothing,1.0,944.0,07/11/2025
+1764,customer 101,user64@mail.com,Pune,Furniture,2.0,4214.0,16-Feb-2025
+1723,customer 158,user198@mail.com,Mumbai,Electronics,2.0,,25/06/2026
+1063,customer 75,user254@mail.com,Mumbai,Electronics ,8.0,3538.0,18-Apr-2026
+1233,customer 243,user112@mail.com,Delhi,Grocery,4.0,4406.0,2025-09-23
+1676,customer 78,user219@mail.com,Bengalur,Furniture,1.0,403.0,05/08/2026
+1105,customer 18,user219@mail.com,Delh,Grocery,6.0,,2025-03-20
+1753,customer 63,user87@mail.com,Mumbai,Electronics,2.0,1909.0,22/07/2026
+1902,customer 247,user53@mail.com,Mumbai,Clothing,2.0,3236.0,17-Apr-2026
+1253,customer 60,,Chennai,Clothing,7.0,4014.0,26-Jan-2025
+1422,customer 252,user202@mail.com,Delhi,Clothing,9.0,,2025-08-16
+1774,customer 30,user282@mail.com,Delhi,Electronics,1.0,4851.0,25-Oct-2025
+1858,customer 161,user140@mail.com,,Grocery ,2.0,388.0,2026-05-30
+1924,customer 264,,Delhi,Grocery,7.0,3999.0,07-Dec-2025
+1079,customer 47,user258@mail.com,Bengaluru,Furniture,9.0,634.0,2025-04-02
+1989,customer 205,user99@mail.com,Mumbai,Grocery,5.0,1782.0,12/09/2025
+1497,customer 249,user212@mail.com,Chennai,Furniture,,3802.0,23/11/2025
+2195,customer 217,,chennai,Furniture,6.0,3062.0,
+1087,customer 254,user222@mail.com,Pune,Clothing,5.0,,2025-02-15
+1064,customer 297,user151@mail.com,bengaluru,Grocery,3.0,4488.0,2026-03-29
+1605,customer 228,user285@mail.com,Pune,Electronics,6.0,746.0,10/01/2026
+1274,customer 48,user176@mail.com,Mumbai,Grocery,2.0,4134.0,29-Jan-2025
+1708,customer 252,user130@mail.com, Bengaluru ,Grocery,5.0,4273.0,
+2108,customer 108,,Chennai,Grocery,3.0,,12-Mar-2026
+1153,customer 283,user20@mail.com,Delhi,Clothing,6.0,1643.0,2025-11-04
+1613,customer 114,user5@mail.com,Bengaluru,Grocery,2.0,1671.0,16/08/2026
+1410,customer 113,user211@mail.com, Chennai ,Clothing,7.0,3456.0,2026-06-03
+1830,,user290@mail.com,Bengaluru,Electronics,3.0,4433.0,17/12/2025
+1912,customer 31,user244@mail.com,Mumbai,Clothing,5.0,$1945,20/05/2025
+1517,customer 174,user285@mail.com,Chennai,Electronics,5.0,2258.0,13-Mar-2025
+1044,customer 257,user227@mail.com,Bengaluru,Electronics,3.0,,2026-01-14
+1390,customer 35,user148@mail.com,Mumbai,Electronics,1.0,1106.0,13/06/2026
+1220,customer 159,user264@mail.com,Mumbai,Electronics,2.0,2110.0,19/02/2026
+1140,customer 3,not_an_email,Bengaluru,Furniture,5.0,4595.0,26/08/2025
+1357,customer 219,user280@mail.com,Chennai,Grocery,3.0,774.0,07-May-2026
+1722,customer 78,user52@mail.com,Bengaluru,grocery,2.0,3157.0,05/12/2025
+1261,customer 284,user58@mail.com,Bengaluru,Furniture,,1200.0,2025-01-05
+1898,customer 127,user129@mail.com,Delh,Grocery,6.0,3566.0,21-Jan-2025
+1195,customer 112,user174@mail.com,Bengaluru,Electronics,3.0,198.0,24/05/2025
+1115,customer 114,user87@mail.com,Delhi,Electronics,8.0,3014.0,29-Jun-2025
+2075,customer 97,user109@mail.com,,Grocery,9.0,1705.0,2026-06-23
+2073,customer 41,user58@mail.com,Mumbai,Clothing,1.0,712.0,2026-02-27
+1718,customer 50,user76@mail.com,Chenna,Grocery,4.0,3122.0,17-Dec-2025
+2083,customer 197,user228@mail.com,Delhi,Electronics,8.0,2714.0,11-Jun-2025
+2106,customer 246,user33@mail.com,Chennai,Grocery,8.0,689.0,11/09/2025
+1358,customer 252,user204@mail.com,bengaluru,CLOTHING,3.0,2029.0,28-Feb-2025
+2060,,user88@mail.com,Bengaluru,Grocery,4.0,2566.0,04/02/2026
+2019,customer 95,user135@mail.com,Delhi,Grocery,4.0,596.0,18-Jan-2025
+2000,customer 298,user131@mail.com,chennai,Clothing,5.0,633.0,02-May-2026
+1935,customer 235,user53@mail.com,Pune,furniture,2.0,4969.0,2026-02-04
+1754,customer 221,user174@mail.com,Bengaluru,electronics,8.0,3030.0,21-Jul-2026
+1420,customer 174,not_an_email,Pun,Grocery,1.0,4531.0,30/09/2025
+1149,customer 40,user142@mail.com,Bengaluru,Furniture,5.0,2448.0,2025-06-25
+1009,customer 90,user40@mail.com,Chennai,Clothing,5.0,4630.0,11-Jun-2026
+2069,,user279@mail.com,Delhi,Furniture,2.0,165.0,2025-11-19
+2185,customer 285,user274@mail.com,Chennai,Clothing,7.0,,13-Nov-2025
+1534,customer 219,user216@mail.com,Chennai,Clothing,,3854.0,2025-07-02
+1548,customer 260,user293@mail.com,Bengaluru,Grocery,5.0,3616.0,2025-05-12
+1298,customer 162,user164@mail.com,Chennai,Grocery,3.0,$3554,27/01/2026
+1976,customer 232,user230@mail.com,Bengalur,Electronics,9.0,,2026-03-01
+1122,customer 134,,chennai,Electronics,8.0,2532.0,
+2144,customer 183,user91@mail.com,Chennai,Electronics,,1458.0,2026-04-02
+1709,customer 37,user209@mail.com,DELHI,Clothing,2.0,1016.0,20/08/2025
+2127,customer 49,user85@mail.com,Delh,Furniture,9.0,929.0,2025-06-18
+1769,customer 71,user242@mail.com,MUMBAI,furniture,7.0,1948.0,19-Jun-2025
+1088,customer 212,user52@mail.com,Pune,FURNITURE,6.0,365.0,2026-06-15
+2187,customer 182,user120@mail.com,Pune,Clothing ,5.0,409.0,21/09/2025
+2032,customer 74,user179@mail.com,Pune,Grocery,3.0,1632.0,05/08/2026
+1097,customer 152,user8@mail.com,Pune,Clothing,8.0,2680.0,19-Feb-2025
+2006,customer 48,user79@mail.com,DELHI,CLOTHING,7.0,2577.0,2025-02-02
+1348,customer 220,user149@mail.com,Pune,Electronics,7.0,4439.0,27-Jul-2026
+1509,customer 99,user297@mail.com,Mumbai,Grocery ,,448.0,28/01/2025
+1211,customer 103,user60@mail.com,Mumbai,Electronics,8.0,3488.0,20/12/2025
+1703,customer 38,user63@mail.com,,Grocery,1.0,4759.0,17-Jan-2026
+1746,customer 289,user290@mail.com,Bengaluru,Clothing,9.0,,09-May-2026
+2045,customer 78,user262@mail.com,Bengaluru,Electronics,9.0,4319.0,16/04/2025
+1939,customer 214,user215@mail.com,Mumbai,Grocery,2.0,3089.0,2025-11-24
+2194,customer 119,user38@mail.com,Chennai,Furniture ,2.0,1179.0,2025-04-25
+1211,customer 103,user60@mail.com,Mumbai,Electronics,8.0,3488.0,20/12/2025
+2142,customer 201,user86@mail.com,Mumbai,Electronics,,4233.0,2025-11-03
+1478,customer 190,user147@mail.com,Bengaluru,Grocery,8.0,4597.0,2026-08-04
+1491,customer 114,user183@mail.com,Chennai,Electronics,4.0,984.0,31/12/2025
+1841,customer 165,user199@mail.com,BENGALURU,Furniture,4.0,3261.0,07-Mar-2025
+2070,customer 242,user274@mail.com,Bengaluru,Clothing,1.0,4500.0,2025-05-01
+1364,customer 222,user255@mail.com,Bengaluru,Clothing,7.0,110.0,24/08/2025
+1296,customer 49,not_an_email,Mumbai,Furniture,8.0,4743.0,24/04/2026
+1049,customer 11,user211@mail.com,Delhi,furniture,6.0,4770.0,2026-04-27
+1224,customer 299,user247@mail.com,Delhi,Clothing,8.0,1662.0,03-Apr-2025
+1850,customer 196,user285@mail.com,chennai,Grocery,6.0,,12/02/2025
+1647,customer 247,user3@mail.com,Bengaluru,Electronics,9.0,920.0,01/06/2025
+1562,customer 100,user57@mail.com,Delhi,Grocery,5.0,1418.0,2025-08-27
+1622,customer 31,,,Clothing,7.0,1915.0,31/05/2025
+1159,customer 44,user260@mail.com,MUMBAI,Electronics,6.0,907.0,03/05/2026
+2087,,user87@mail.com,Chennai,Clothing,1.0,1323.0,2025-02-12
+1804,,user20@mail.com,Chennai,Grocery,3.0,344.0,2026-02-05
+1604,customer 262,user220@mail.com,Chennai,Electronics,5.0,1089.0,02-Feb-2026
+1442,,user46@mail.com,Chennai,Electronics,4.0,3372.0,28/05/2026
+2166,customer 83,user18@mail.com,Bengaluru,Furniture,6.0,$921,13-Jun-2025
+2024,,user7@mail.com,Mumbai,Furniture,7.0,,05/06/2026
+1539,customer 250,user61@mail.com,Delhi,Electronics,2.0,2945.0,20-Sep-2025
+1767,customer 20,user17@mail.com,Mumbai,Furniture,1.0,2556.0,23-Apr-2025
+1762,customer 229,user169@mail.com,Mumbai,Electronics,3.0,3688.0,22/05/2025
+1868,customer 11,user255@mail.com,Chenna,Grocery,2.0,4618.0,10/03/2026
+1689,customer 17,user38@mail.com,Delhi,grocery,,3167.0,29/01/2026
+1187,customer 164,user46@mail.com,Chennai,Furniture,4.0,$1188,2026-04-06
+1406,customer 71,user111@mail.com,Delhi,Clothing,7.0,2544.0,12/02/2026
+2011,customer 137,user268@mail.com,BENGALURU,Grocery ,7.0,3746.0,29/05/2025
+1751,,user258@mail.com, Pune ,Electronics,7.0,,10/12/2025
+2050,customer 265,user223@mail.com,BENGALURU,Furniture,2.0,1969.0,04/08/2026
+1461,customer 98,user228@mail.com,Chennai,Furniture,6.0,$155,11-May-2026
+1670,customer 225,user60@mail.com,Chennai,Clothing,,1593.0,
+1655,customer 296,user151@mail.com, Bengaluru ,Furniture,1.0,571.0,31-Aug-2025
+1785,customer 204,user201@mail.com,Pune,Clothing,6.0,4448.0,06-Apr-2025
+2083,customer 197,user228@mail.com,Delhi,Electronics,8.0,2714.0,11-Jun-2025
+1714,customer 182,user147@mail.com,Delhi,Clothing,-5.0,1318.0,2026-07-13
+1424,customer 46,user120@mail.com,Delhi,Clothing,7.0,1594.0,2025-10-19
+1043,customer 48,user81@mail.com,Pune,Electronics,8.0,1590.0,2025-11-28
+1661,customer 172,user95@mail.com,Delh,Clothing,1.0,,2025-06-09
+1635,customer 116,user293@mail.com,CHENNAI,Grocery ,,551.0,
+1528,customer 253,user176@mail.com,CHENNAI,Electronics,9.0,1107.0,19/01/2025
+1987,customer 148,user281@mail.com,Chennai,Furniture,5.0,542.0,2025-03-07
+1218,customer 271,user160@mail.com, Mumbai ,Grocery,2.0,4321.0,14-Feb-2026
+1820,customer 138,user271@mail.com,DELHI,Clothing,6.0,2726.0,29-Aug-2025
+1484,customer 264,user274@mail.com,Mumbai,Clothing,,2762.0,2026-07-15
+2033,customer 19,user18@mail.com,Delhi,Grocery,4.0,4571.0,25/04/2026
+1855,customer 123,user93@mail.com, Mumbai ,Grocery,6.0,4672.0,28-Mar-2026
+1609,,user192@mail.com, Mumbai ,Grocery,7.0,2499.0,07-Jul-2025
+1485,customer 137,user173@mail.com,Chennai,Furniture,1.0,105.0,2026-03-02
+2149,customer 200,user263@mail.com,Mumba,Clothing,2.0,,05-Jun-2025
+2017,customer 61,user225@mail.com,,ELECTRONICS,7.0,4850.0,28/06/2026
+2085,customer 186,user196@mail.com,Mumbai,Grocery,1.0,1685.0,2025-03-30
+1081,customer 81,user88@mail.com,Pun,Furniture,8.0,2044.0,10/03/2025
+1324,customer 244,user220@mail.com,MUMBAI,Furniture,1.0,3180.0,15/08/2025
+2080,customer 230,user118@mail.com, Bengaluru ,Grocery,4.0,4162.0,20/10/2025
+1019,customer 140,user84@mail.com,Chennai,Furniture,9.0,4769.0,2026-01-08
+1454,customer 16,user151@mail.com,Pune,Grocery,,1231.0,2026-01-12
+2110,customer 283,user133@mail.com,Pune,Grocery ,4.0,$1247,01/02/2026
+1838,customer 125,user208@mail.com,,Electronics,6.0,3471.0,
+1758,customer 164,user225@mail.com,Bengaluru,Grocery,7.0,539.0,28/07/2025
+1034,customer 242,user24@mail.com,Chennai,Clothing,8.0,557.0,08/02/2025
+1808,customer 84,user182@mail.com, Bengaluru ,Electronics ,1.0,3273.0,19/05/2025
+2162,customer 14,user229@mail.com,Chennai,Electronics,6.0,$260,28/02/2025
+1904,customer 12,user24@mail.com,Delhi,Clothing,1.0,2009.0,20-Apr-2025
+1800,customer 291,user189@mail.com,Bengaluru,Furniture,2.0,3234.0,30/10/2025
+1096,customer 218,user37@mail.com,Bengaluru,Electronics,6.0,2871.0,23-Aug-2026
+2107,customer 42,user285@mail.com,Chennai,Clothing,5.0,1364.0,2025-01-10
+1446,,user14@mail.com,Delhi,Electronics,9.0,810.0,13-Apr-2025
+1474,,user48@mail.com,Delhi,Clothing,4.0,2766.0,10/06/2026
+1366,customer 266,user103@mail.com,Bengaluru,Clothing,6.0,,25/03/2026
+1283,customer 174,user294@mail.com,,Furniture,7.0,511.0,29-Mar-2026
+1760,customer 237,user190@mail.com,Mumbai,Clothing ,5.0,384.0,12-Apr-2026
+1918,customer 276,user64@mail.com,Mumbai,Furniture,9.0,184.0,2025-11-21
+1759,customer 274,user216@mail.com,Chennai,Furniture,4.0,3985.0,12/08/2025
+1392,customer 27,user277@mail.com,Mumbai,Electronics,6.0,1721.0,2025-04-17
+1506,customer 213,user232@mail.com,Bengaluru,electronics,6.0,3413.0,28/05/2026
+1434,customer 131,user124@mail.com,Pun,Electronics,9.0,1739.0,15-Mar-2025
+1648,customer 112,user215@mail.com,Bengaluru,Furniture,1.0,2559.0,22/06/2026
+1942,customer 211,user116@mail.com,Bengaluru,Electronics,8.0,273.0,2025-01-17
+2154,customer 294,user84@mail.com,Chennai,Electronics ,6.0,2645.0,27/03/2026
+1132,customer 16,user107@mail.com,Delhi,Grocery ,4.0,4233.0,21/06/2026
+2074,customer 14,user135@mail.com,Bengaluru,Grocery,5.0,439.0,20-Feb-2026
+1972,customer 278,user92@mail.com,Chennai,Grocery,7.0,$2345,2025-06-13
+1450,customer 238,user112@mail.com,Delhi,Furniture,6.0,3359.0,25/02/2026
+1031,customer 166,user236@mail.com,Bengaluru,Furniture,4.0,2002.0,2026-02-09
+1121,customer 181,user66@mail.com,Bengaluru,Electronics,5.0,1490.0,2025-12-12
+2112,customer 260,user86@mail.com,Bengaluru,FURNITURE,1.0,1234.0,2025-10-02
+1255,customer 109,user273@mail.com,Pune,Clothing,1.0,2570.0,22/08/2026
+1892,customer 250,user170@mail.com,Chennai,Clothing,5.0,900000,11/05/2026
+1359,customer 34,user44@mail.com,Bengaluru,Furniture,5.0,2163.0,2025-07-27
+1051,customer 154,user39@mail.com,Delh,Furniture,2.0,2194.0,25-May-2026
+1875,customer 189,user90@mail.com,CHENNAI,Grocery,5.0,3155.0,01/12/2025
+1938,,user171@mail.com,Bengaluru,Furniture,7.0,287.0,14-Nov-2025
+1772,customer 256,user148@mail.com,Delhi,Grocery,7.0,2533.0,09-Jul-2025
+2126,customer 49,user158@mail.com,Chennai,Grocery,1.0,805.0,21/05/2025
+2043,customer 191,,Mumbai,clothing,,555.0,
+1679,customer 10,user153@mail.com, Pune ,Clothing,4.0,3747.0,02/03/2025
+1805,customer 47,user186@mail.com,pune,Electronics,8.0,4277.0,21-Nov-2025
+1124,customer 164,user56@mail.com,Chennai,Grocery,6.0,3779.0,04/10/2025
+1404,customer 65,user275@mail.com, Pune ,Clothing,5.0,$1402,05-Oct-2025
+1730,customer 144,user230@mail.com,Bengaluru,Electronics,2.0,$4963,2026-03-15
+1831,customer 207,user57@mail.com, Pune ,Furniture,5.0,707.0,30/05/2026
+2071,customer 59,user4@mail.com,Delhi,grocery,8.0,4701.0,10/01/2026
+1725,customer 85,user17@mail.com,Bengaluru,Furniture,6.0,4374.0,2025-06-12
+1587,customer 193,user100@mail.com,MUMBAI,Furniture,3.0,1997.0,08-Feb-2026
+1607,customer 227,user245@mail.com,pune,Grocery ,5.0,2128.0,04/11/2025
+1433,,user141@mail.com,,Clothing,4.0,4832.0,03/06/2025
+1674,customer 44,user212@mail.com,Pune,Electronics,8.0,1015.0,2025-01-31
+1360,customer 275,user126@mail.com,Chennai,Furniture,5.0,3681.0,12/07/2025
+2099,,user132@mail.com,Mumbai,Grocery,9.0,3660.0,2025-08-18
+1466,customer 140,user94@mail.com,bengaluru,Furniture,2.0,1878.0,2025-06-09
+1299,customer 285,user49@mail.com,Bengaluru,Grocery,3.0,3142.0,07/09/2025
+1493,customer 40,user177@mail.com,Pune,Electronics,5.0,2598.0,2025-05-07
+1527,customer 40,user101@mail.com,Pune,Electronics,8.0,4474.0,2025-02-14
+2192,customer 79,user154@mail.com,,Clothing,5.0,3947.0,2026-07-03
